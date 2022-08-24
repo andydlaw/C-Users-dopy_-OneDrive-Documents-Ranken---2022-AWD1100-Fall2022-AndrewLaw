@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "lpJFSPU6Fh6Lb01eSEFX/UA8gWUQhN+kzd0IPt9AtAm8pK1rYLmX4MT+3m8JBzIuoxReMj7O5P931GYQFmZDuA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\jpscott\\Desktop\\C#Exercises\\Exercises\\Extra Starts\\Chapter 12\\InventoryMaintenance\\InventoryMaintenance\\InventoryMaintenance.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\jpscott\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.22\\microsoft.netcore.app.host.win-x64.3.1.22.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,11 @@
+C:\Users\dopy_\OneDrive\Documents\Ranken - 2022\AWD1100-Fall2022-AndrewLaw\Pretests\Pretest\Pretest01-01GUI\bin\Debug\Pretest01-01GUI.exe.config
+C:\Users\dopy_\OneDrive\Documents\Ranken - 2022\AWD1100-Fall2022-AndrewLaw\Pretests\Pretest\Pretest01-01GUI\bin\Debug\Pretest01-01GUI.exe
+C:\Users\dopy_\OneDrive\Documents\Ranken - 2022\AWD1100-Fall2022-AndrewLaw\Pretests\Pretest\Pretest01-01GUI\bin\Debug\Pretest01-01GUI.pdb
+C:\Users\dopy_\OneDrive\Documents\Ranken - 2022\AWD1100-Fall2022-AndrewLaw\Pretests\Pretest\Pretest01-01GUI\obj\Debug\Pretest01-01GUI.csproj.AssemblyReference.cache
+C:\Users\dopy_\OneDrive\Documents\Ranken - 2022\AWD1100-Fall2022-AndrewLaw\Pretests\Pretest\Pretest01-01GUI\obj\Debug\Pretest01-01GUI.csproj.SuggestedBindingRedirects.cache
+C:\Users\dopy_\OneDrive\Documents\Ranken - 2022\AWD1100-Fall2022-AndrewLaw\Pretests\Pretest\Pretest01-01GUI\obj\Debug\Pretest01_01GUI.frm.resources
+C:\Users\dopy_\OneDrive\Documents\Ranken - 2022\AWD1100-Fall2022-AndrewLaw\Pretests\Pretest\Pretest01-01GUI\obj\Debug\Pretest01_01GUI.Properties.Resources.resources
+C:\Users\dopy_\OneDrive\Documents\Ranken - 2022\AWD1100-Fall2022-AndrewLaw\Pretests\Pretest\Pretest01-01GUI\obj\Debug\Pretest01-01GUI.csproj.GenerateResource.cache
+C:\Users\dopy_\OneDrive\Documents\Ranken - 2022\AWD1100-Fall2022-AndrewLaw\Pretests\Pretest\Pretest01-01GUI\obj\Debug\Pretest01-01GUI.csproj.CoreCompileInputs.cache
+C:\Users\dopy_\OneDrive\Documents\Ranken - 2022\AWD1100-Fall2022-AndrewLaw\Pretests\Pretest\Pretest01-01GUI\obj\Debug\Pretest01-01GUI.exe
+C:\Users\dopy_\OneDrive\Documents\Ranken - 2022\AWD1100-Fall2022-AndrewLaw\Pretests\Pretest\Pretest01-01GUI\obj\Debug\Pretest01-01GUI.pdb

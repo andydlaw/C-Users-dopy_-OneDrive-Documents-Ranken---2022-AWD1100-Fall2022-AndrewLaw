@@ -1,0 +1,63 @@
+//	Check to make sure that Git is loaded on your machine:
+command:	git --version
+
+//	Get setup (only need to do once)
+command:	git config --global user.name "John Doe"
+command:	git config --global user.email "jmdoe@insideranken.org"
+
+//	Create local .git folder on your machine
+command:	git init
+
+//	Add item(s) to Git "staging area"
+command:	git add .
+
+//	Commit changes made up above
+command:	git commit -m "message"
+
+//	Link Git to GitHub (once per project)
+command:	git remote add origin 'URL-to-associated-GitHub-Repository'
+
+//	Verify that link in step above has been set
+command:	git remote -v
+
+//	To change a mistakenly set current origin.  Taken from URL:
+//	https://docs.github.com/en/github/using-git/changing-a-remotes-url
+command:	git remote set-url origin https://urltochangeto.git
+
+//	How to give an invite to the instructor for a private github repo
+//	Follow the steps in this URL:
+//	https://docs.github.com/en/free-pro-team@latest/github/setting-up-and-managing-your-github-user-account/inviting-collaborators-to-a-personal-repository
+
+//	To push the repo to GitHub:
+git push -u origin master (main)
+
+****************************************************
+
+Git/GitHub URL List:
+====================
+What is Git? A Beginner's Guide to Git Version Control:
+By Anna Skoulikari		MARCH 17, 2021 
+https://www.freecodecamp.org/news/what-is-git-learn-git-version-control/
+
+Git and GitHub Tutorial – Version Control for Beginners:
+By Ihechikara Vincent Abba	NOVEMBER 5, 2021
+https://www.freecodecamp.org/news/git-and-github-for-beginners/
+
+Git Crash Course for Beginners:
+https://gist.github.com/brandon1024/14b5f9fcfd982658d01811ee3045ff1e
+
+Git Cheat Sheet – 50 Git Commands You Should Know
+By Fabio Pacific		MARCH 8, 2021
+https://www.freecodecamp.org/news/git-cheat-sheet/
+
+How Git Works Under the Hood:
+By Faisal Albasu		JANUARY 4, 2022
+https://www.freecodecamp.org/news/git-under-the-hood/
+
+Colt Steele GitHub YouTube Video:
+https://www.youtube.com/watch?v=nhNq2kIvi9s&t=23s
+
+Colt Steel Git YouTube Video:
+https://www.youtube.com/watch?v=USjZcfj8yxE&t=27s
+
+

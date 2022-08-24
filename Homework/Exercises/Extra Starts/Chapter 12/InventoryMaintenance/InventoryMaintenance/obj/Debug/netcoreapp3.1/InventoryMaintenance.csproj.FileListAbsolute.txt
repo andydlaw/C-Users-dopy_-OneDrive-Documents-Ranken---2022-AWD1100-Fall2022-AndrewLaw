@@ -1,0 +1,8 @@
+C:\Users\jpscott\Desktop\C#Exercises\Exercises\Extra Starts\Chapter 12\InventoryMaintenance\InventoryMaintenance\obj\Debug\netcoreapp3.1\InventoryMaintenance.csproj.AssemblyReference.cache
+C:\Users\jpscott\Desktop\C#Exercises\Exercises\Extra Starts\Chapter 12\InventoryMaintenance\InventoryMaintenance\obj\Debug\netcoreapp3.1\InventoryMaintenance.frmInvMaint.resources
+C:\Users\jpscott\Desktop\C#Exercises\Exercises\Extra Starts\Chapter 12\InventoryMaintenance\InventoryMaintenance\obj\Debug\netcoreapp3.1\InventoryMaintenance.frmNewItem.resources
+C:\Users\jpscott\Desktop\C#Exercises\Exercises\Extra Starts\Chapter 12\InventoryMaintenance\InventoryMaintenance\obj\Debug\netcoreapp3.1\InventoryMaintenance.csproj.GenerateResource.cache
+C:\Users\jpscott\Desktop\C#Exercises\Exercises\Extra Starts\Chapter 12\InventoryMaintenance\InventoryMaintenance\obj\Debug\netcoreapp3.1\InventoryMaintenance.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jpscott\Desktop\C#Exercises\Exercises\Extra Starts\Chapter 12\InventoryMaintenance\InventoryMaintenance\obj\Debug\netcoreapp3.1\InventoryMaintenance.AssemblyInfoInputs.cache
+C:\Users\jpscott\Desktop\C#Exercises\Exercises\Extra Starts\Chapter 12\InventoryMaintenance\InventoryMaintenance\obj\Debug\netcoreapp3.1\InventoryMaintenance.AssemblyInfo.cs
+C:\Users\jpscott\Desktop\C#Exercises\Exercises\Extra Starts\Chapter 12\InventoryMaintenance\InventoryMaintenance\obj\Debug\netcoreapp3.1\InventoryMaintenance.csproj.CoreCompileInputs.cache

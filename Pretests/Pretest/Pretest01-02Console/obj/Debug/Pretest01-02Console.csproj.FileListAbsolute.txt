@@ -1,0 +1,8 @@
+C:\Users\dopy_\OneDrive\Documents\Ranken - 2022\AWD1100-Fall2022-AndrewLaw\Pretests\Pretest\Pretest01-02Console\obj\Debug\Pretest01-02Console.csproj.AssemblyReference.cache
+C:\Users\dopy_\OneDrive\Documents\Ranken - 2022\AWD1100-Fall2022-AndrewLaw\Pretests\Pretest\Pretest01-02Console\obj\Debug\Pretest01-02Console.csproj.SuggestedBindingRedirects.cache
+C:\Users\dopy_\OneDrive\Documents\Ranken - 2022\AWD1100-Fall2022-AndrewLaw\Pretests\Pretest\Pretest01-02Console\obj\Debug\Pretest01-02Console.csproj.CoreCompileInputs.cache
+C:\Users\dopy_\OneDrive\Documents\Ranken - 2022\AWD1100-Fall2022-AndrewLaw\Pretests\Pretest\Pretest01-02Console\bin\Debug\Pretest01-02Console.exe.config
+C:\Users\dopy_\OneDrive\Documents\Ranken - 2022\AWD1100-Fall2022-AndrewLaw\Pretests\Pretest\Pretest01-02Console\bin\Debug\Pretest01-02Console.exe
+C:\Users\dopy_\OneDrive\Documents\Ranken - 2022\AWD1100-Fall2022-AndrewLaw\Pretests\Pretest\Pretest01-02Console\bin\Debug\Pretest01-02Console.pdb
+C:\Users\dopy_\OneDrive\Documents\Ranken - 2022\AWD1100-Fall2022-AndrewLaw\Pretests\Pretest\Pretest01-02Console\obj\Debug\Pretest01-02Console.exe
+C:\Users\dopy_\OneDrive\Documents\Ranken - 2022\AWD1100-Fall2022-AndrewLaw\Pretests\Pretest\Pretest01-02Console\obj\Debug\Pretest01-02Console.pdb

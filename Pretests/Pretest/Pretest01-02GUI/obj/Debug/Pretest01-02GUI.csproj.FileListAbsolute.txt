@@ -1,0 +1,11 @@
+C:\Users\dopy_\OneDrive\Documents\Ranken - 2022\AWD1100-Fall2022-AndrewLaw\Pretests\Pretest\Pretest01-02GUI\bin\Debug\Pretest01-02GUI.exe.config
+C:\Users\dopy_\OneDrive\Documents\Ranken - 2022\AWD1100-Fall2022-AndrewLaw\Pretests\Pretest\Pretest01-02GUI\bin\Debug\Pretest01-02GUI.exe
+C:\Users\dopy_\OneDrive\Documents\Ranken - 2022\AWD1100-Fall2022-AndrewLaw\Pretests\Pretest\Pretest01-02GUI\bin\Debug\Pretest01-02GUI.pdb
+C:\Users\dopy_\OneDrive\Documents\Ranken - 2022\AWD1100-Fall2022-AndrewLaw\Pretests\Pretest\Pretest01-02GUI\obj\Debug\Pretest01-02GUI.csproj.AssemblyReference.cache
+C:\Users\dopy_\OneDrive\Documents\Ranken - 2022\AWD1100-Fall2022-AndrewLaw\Pretests\Pretest\Pretest01-02GUI\obj\Debug\Pretest01-02GUI.csproj.SuggestedBindingRedirects.cache
+C:\Users\dopy_\OneDrive\Documents\Ranken - 2022\AWD1100-Fall2022-AndrewLaw\Pretests\Pretest\Pretest01-02GUI\obj\Debug\Pretest01_02GUI.frmMilesToKilometers.resources
+C:\Users\dopy_\OneDrive\Documents\Ranken - 2022\AWD1100-Fall2022-AndrewLaw\Pretests\Pretest\Pretest01-02GUI\obj\Debug\Pretest01_02GUI.Properties.Resources.resources
+C:\Users\dopy_\OneDrive\Documents\Ranken - 2022\AWD1100-Fall2022-AndrewLaw\Pretests\Pretest\Pretest01-02GUI\obj\Debug\Pretest01-02GUI.csproj.GenerateResource.cache
+C:\Users\dopy_\OneDrive\Documents\Ranken - 2022\AWD1100-Fall2022-AndrewLaw\Pretests\Pretest\Pretest01-02GUI\obj\Debug\Pretest01-02GUI.csproj.CoreCompileInputs.cache
+C:\Users\dopy_\OneDrive\Documents\Ranken - 2022\AWD1100-Fall2022-AndrewLaw\Pretests\Pretest\Pretest01-02GUI\obj\Debug\Pretest01-02GUI.exe
+C:\Users\dopy_\OneDrive\Documents\Ranken - 2022\AWD1100-Fall2022-AndrewLaw\Pretests\Pretest\Pretest01-02GUI\obj\Debug\Pretest01-02GUI.pdb
