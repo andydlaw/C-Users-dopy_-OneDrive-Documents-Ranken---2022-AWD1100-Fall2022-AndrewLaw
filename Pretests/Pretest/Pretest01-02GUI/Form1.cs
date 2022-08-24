@@ -16,7 +16,6 @@ namespace Pretest01_02GUI
         {
             InitializeComponent();
         }
-        const decimal KM_PER_MILE = 1.6m;
         private void label1_Click(object sender, EventArgs e)
         {
 
@@ -53,6 +52,18 @@ namespace Pretest01_02GUI
         private void frmMilesToKilometers_Load(object sender, EventArgs e)
         {
 
+        }
+
+        const decimal KM_PER_MILE = 1.6m;
+
+        //  This code runs when the Calculate button is clicked.
+        private void btnCalculate_Click(object sender, EventArgs e)
+        {
+            //  Declare variables
+            decimal miles = Convert.ToDecimal(txtMiles.Text);
+            decimal kilos = miles * KM_PER_MILE;
+
+            txtKilometers.Text = kilos.ToString("n2");
         }
     }
 }
