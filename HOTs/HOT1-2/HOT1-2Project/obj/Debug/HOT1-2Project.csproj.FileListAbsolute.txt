@@ -1,8 +1,0 @@
-C:\Users\dopy_\OneDrive\Documents\Ranken - 2022\AWD1100-Fall2022-AndrewLaw\HOTs\HOT1-2\HOT1-2Project\bin\Debug\HOT1-2Project.exe.config
-C:\Users\dopy_\OneDrive\Documents\Ranken - 2022\AWD1100-Fall2022-AndrewLaw\HOTs\HOT1-2\HOT1-2Project\bin\Debug\HOT1-2Project.exe
-C:\Users\dopy_\OneDrive\Documents\Ranken - 2022\AWD1100-Fall2022-AndrewLaw\HOTs\HOT1-2\HOT1-2Project\bin\Debug\HOT1-2Project.pdb
-C:\Users\dopy_\OneDrive\Documents\Ranken - 2022\AWD1100-Fall2022-AndrewLaw\HOTs\HOT1-2\HOT1-2Project\obj\Debug\HOT1-2Project.csproj.AssemblyReference.cache
-C:\Users\dopy_\OneDrive\Documents\Ranken - 2022\AWD1100-Fall2022-AndrewLaw\HOTs\HOT1-2\HOT1-2Project\obj\Debug\HOT1-2Project.csproj.SuggestedBindingRedirects.cache
-C:\Users\dopy_\OneDrive\Documents\Ranken - 2022\AWD1100-Fall2022-AndrewLaw\HOTs\HOT1-2\HOT1-2Project\obj\Debug\HOT1-2Project.csproj.CoreCompileInputs.cache
-C:\Users\dopy_\OneDrive\Documents\Ranken - 2022\AWD1100-Fall2022-AndrewLaw\HOTs\HOT1-2\HOT1-2Project\obj\Debug\HOT1-2Project.exe
-C:\Users\dopy_\OneDrive\Documents\Ranken - 2022\AWD1100-Fall2022-AndrewLaw\HOTs\HOT1-2\HOT1-2Project\obj\Debug\HOT1-2Project.pdb
