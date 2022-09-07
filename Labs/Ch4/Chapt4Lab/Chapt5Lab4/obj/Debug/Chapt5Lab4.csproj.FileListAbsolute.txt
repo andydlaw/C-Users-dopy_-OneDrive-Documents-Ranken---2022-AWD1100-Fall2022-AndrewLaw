@@ -1,0 +1,11 @@
+C:\Users\dopy_\OneDrive\Documents\Ranken - 2022\AWD1100-Fall2022-AndrewLaw\Labs\Ch4\Chapt4Lab\Chapt5Lab4\bin\Debug\Chapt5Lab4.exe.config
+C:\Users\dopy_\OneDrive\Documents\Ranken - 2022\AWD1100-Fall2022-AndrewLaw\Labs\Ch4\Chapt4Lab\Chapt5Lab4\bin\Debug\Chapt5Lab4.exe
+C:\Users\dopy_\OneDrive\Documents\Ranken - 2022\AWD1100-Fall2022-AndrewLaw\Labs\Ch4\Chapt4Lab\Chapt5Lab4\bin\Debug\Chapt5Lab4.pdb
+C:\Users\dopy_\OneDrive\Documents\Ranken - 2022\AWD1100-Fall2022-AndrewLaw\Labs\Ch4\Chapt4Lab\Chapt5Lab4\obj\Debug\Chapt5Lab4.csproj.AssemblyReference.cache
+C:\Users\dopy_\OneDrive\Documents\Ranken - 2022\AWD1100-Fall2022-AndrewLaw\Labs\Ch4\Chapt4Lab\Chapt5Lab4\obj\Debug\Chapt5Lab4.csproj.SuggestedBindingRedirects.cache
+C:\Users\dopy_\OneDrive\Documents\Ranken - 2022\AWD1100-Fall2022-AndrewLaw\Labs\Ch4\Chapt4Lab\Chapt5Lab4\obj\Debug\Chapt5Lab4.frmHurricanScale.resources
+C:\Users\dopy_\OneDrive\Documents\Ranken - 2022\AWD1100-Fall2022-AndrewLaw\Labs\Ch4\Chapt4Lab\Chapt5Lab4\obj\Debug\Chapt5Lab4.Properties.Resources.resources
+C:\Users\dopy_\OneDrive\Documents\Ranken - 2022\AWD1100-Fall2022-AndrewLaw\Labs\Ch4\Chapt4Lab\Chapt5Lab4\obj\Debug\Chapt5Lab4.csproj.GenerateResource.cache
+C:\Users\dopy_\OneDrive\Documents\Ranken - 2022\AWD1100-Fall2022-AndrewLaw\Labs\Ch4\Chapt4Lab\Chapt5Lab4\obj\Debug\Chapt5Lab4.csproj.CoreCompileInputs.cache
+C:\Users\dopy_\OneDrive\Documents\Ranken - 2022\AWD1100-Fall2022-AndrewLaw\Labs\Ch4\Chapt4Lab\Chapt5Lab4\obj\Debug\Chapt5Lab4.exe
+C:\Users\dopy_\OneDrive\Documents\Ranken - 2022\AWD1100-Fall2022-AndrewLaw\Labs\Ch4\Chapt4Lab\Chapt5Lab4\obj\Debug\Chapt5Lab4.pdb
