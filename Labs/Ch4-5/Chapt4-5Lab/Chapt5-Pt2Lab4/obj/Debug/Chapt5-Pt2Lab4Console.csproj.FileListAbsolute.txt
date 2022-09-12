@@ -1,0 +1,16 @@
+C:\Users\dopy_\OneDrive\Documents\Ranken - 2022\AWD1100-Fall2022-AndrewLaw\Labs\Ch4\Chapt4Lab\Chapt5-Pt2Lab4\bin\Debug\Chapt5-Pt2Lab4.exe.config
+C:\Users\dopy_\OneDrive\Documents\Ranken - 2022\AWD1100-Fall2022-AndrewLaw\Labs\Ch4\Chapt4Lab\Chapt5-Pt2Lab4\bin\Debug\Chapt5-Pt2Lab4.exe
+C:\Users\dopy_\OneDrive\Documents\Ranken - 2022\AWD1100-Fall2022-AndrewLaw\Labs\Ch4\Chapt4Lab\Chapt5-Pt2Lab4\bin\Debug\Chapt5-Pt2Lab4.pdb
+C:\Users\dopy_\OneDrive\Documents\Ranken - 2022\AWD1100-Fall2022-AndrewLaw\Labs\Ch4\Chapt4Lab\Chapt5-Pt2Lab4\obj\Debug\Chapt5-Pt2Lab4Console.csproj.AssemblyReference.cache
+C:\Users\dopy_\OneDrive\Documents\Ranken - 2022\AWD1100-Fall2022-AndrewLaw\Labs\Ch4\Chapt4Lab\Chapt5-Pt2Lab4\obj\Debug\Chapt5-Pt2Lab4Console.csproj.SuggestedBindingRedirects.cache
+C:\Users\dopy_\OneDrive\Documents\Ranken - 2022\AWD1100-Fall2022-AndrewLaw\Labs\Ch4\Chapt4Lab\Chapt5-Pt2Lab4\obj\Debug\Chapt5-Pt2Lab4Console.csproj.CoreCompileInputs.cache
+C:\Users\dopy_\OneDrive\Documents\Ranken - 2022\AWD1100-Fall2022-AndrewLaw\Labs\Ch4\Chapt4Lab\Chapt5-Pt2Lab4\obj\Debug\Chapt5-Pt2Lab4.exe
+C:\Users\dopy_\OneDrive\Documents\Ranken - 2022\AWD1100-Fall2022-AndrewLaw\Labs\Ch4\Chapt4Lab\Chapt5-Pt2Lab4\obj\Debug\Chapt5-Pt2Lab4.pdb
+C:\Users\dopy_\OneDrive\Documents\Ranken - 2022\AWD1100-Fall2022-AndrewLaw\Labs\Ch4-5\Chapt4-5Lab\Chapt5-Pt2Lab4\bin\Debug\Chapt5-Pt2Lab4.exe.config
+C:\Users\dopy_\OneDrive\Documents\Ranken - 2022\AWD1100-Fall2022-AndrewLaw\Labs\Ch4-5\Chapt4-5Lab\Chapt5-Pt2Lab4\bin\Debug\Chapt5-Pt2Lab4.exe
+C:\Users\dopy_\OneDrive\Documents\Ranken - 2022\AWD1100-Fall2022-AndrewLaw\Labs\Ch4-5\Chapt4-5Lab\Chapt5-Pt2Lab4\bin\Debug\Chapt5-Pt2Lab4.pdb
+C:\Users\dopy_\OneDrive\Documents\Ranken - 2022\AWD1100-Fall2022-AndrewLaw\Labs\Ch4-5\Chapt4-5Lab\Chapt5-Pt2Lab4\obj\Debug\Chapt5-Pt2Lab4Console.csproj.AssemblyReference.cache
+C:\Users\dopy_\OneDrive\Documents\Ranken - 2022\AWD1100-Fall2022-AndrewLaw\Labs\Ch4-5\Chapt4-5Lab\Chapt5-Pt2Lab4\obj\Debug\Chapt5-Pt2Lab4Console.csproj.SuggestedBindingRedirects.cache
+C:\Users\dopy_\OneDrive\Documents\Ranken - 2022\AWD1100-Fall2022-AndrewLaw\Labs\Ch4-5\Chapt4-5Lab\Chapt5-Pt2Lab4\obj\Debug\Chapt5-Pt2Lab4Console.csproj.CoreCompileInputs.cache
+C:\Users\dopy_\OneDrive\Documents\Ranken - 2022\AWD1100-Fall2022-AndrewLaw\Labs\Ch4-5\Chapt4-5Lab\Chapt5-Pt2Lab4\obj\Debug\Chapt5-Pt2Lab4.exe
+C:\Users\dopy_\OneDrive\Documents\Ranken - 2022\AWD1100-Fall2022-AndrewLaw\Labs\Ch4-5\Chapt4-5Lab\Chapt5-Pt2Lab4\obj\Debug\Chapt5-Pt2Lab4.pdb

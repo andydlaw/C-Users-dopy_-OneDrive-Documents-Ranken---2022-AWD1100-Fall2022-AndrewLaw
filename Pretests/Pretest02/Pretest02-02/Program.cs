@@ -16,7 +16,7 @@ namespace Pretest02_02
         {
             Application.EnableVisualStyles();
             Application.SetCompatibleTextRenderingDefault(false);
-            Application.Run(new frmBattingAverage());
+            Application.Run(new frmKilometerToMilesCalculator());
         }
     }
 }

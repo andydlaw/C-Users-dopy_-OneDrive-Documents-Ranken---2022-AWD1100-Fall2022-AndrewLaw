@@ -1,0 +1,11 @@
+C:\Users\dopy_\OneDrive\Documents\Ranken - 2022\AWD1100-Fall2022-AndrewLaw\Labs\Ch4-5\Chapt4-5Lab\Chapt4-Lab05\bin\Debug\Chapt4-Lab05.exe.config
+C:\Users\dopy_\OneDrive\Documents\Ranken - 2022\AWD1100-Fall2022-AndrewLaw\Labs\Ch4-5\Chapt4-5Lab\Chapt4-Lab05\bin\Debug\Chapt4-Lab05.exe
+C:\Users\dopy_\OneDrive\Documents\Ranken - 2022\AWD1100-Fall2022-AndrewLaw\Labs\Ch4-5\Chapt4-5Lab\Chapt4-Lab05\bin\Debug\Chapt4-Lab05.pdb
+C:\Users\dopy_\OneDrive\Documents\Ranken - 2022\AWD1100-Fall2022-AndrewLaw\Labs\Ch4-5\Chapt4-5Lab\Chapt4-Lab05\obj\Debug\Chapt4-Lab05.csproj.AssemblyReference.cache
+C:\Users\dopy_\OneDrive\Documents\Ranken - 2022\AWD1100-Fall2022-AndrewLaw\Labs\Ch4-5\Chapt4-5Lab\Chapt4-Lab05\obj\Debug\Chapt4-Lab05.csproj.SuggestedBindingRedirects.cache
+C:\Users\dopy_\OneDrive\Documents\Ranken - 2022\AWD1100-Fall2022-AndrewLaw\Labs\Ch4-5\Chapt4-5Lab\Chapt4-Lab05\obj\Debug\Chapt4_Lab05.frmPayrollProjectionsCalculator.resources
+C:\Users\dopy_\OneDrive\Documents\Ranken - 2022\AWD1100-Fall2022-AndrewLaw\Labs\Ch4-5\Chapt4-5Lab\Chapt4-Lab05\obj\Debug\Chapt4_Lab05.Properties.Resources.resources
+C:\Users\dopy_\OneDrive\Documents\Ranken - 2022\AWD1100-Fall2022-AndrewLaw\Labs\Ch4-5\Chapt4-5Lab\Chapt4-Lab05\obj\Debug\Chapt4-Lab05.csproj.GenerateResource.cache
+C:\Users\dopy_\OneDrive\Documents\Ranken - 2022\AWD1100-Fall2022-AndrewLaw\Labs\Ch4-5\Chapt4-5Lab\Chapt4-Lab05\obj\Debug\Chapt4-Lab05.csproj.CoreCompileInputs.cache
+C:\Users\dopy_\OneDrive\Documents\Ranken - 2022\AWD1100-Fall2022-AndrewLaw\Labs\Ch4-5\Chapt4-5Lab\Chapt4-Lab05\obj\Debug\Chapt4-Lab05.exe
+C:\Users\dopy_\OneDrive\Documents\Ranken - 2022\AWD1100-Fall2022-AndrewLaw\Labs\Ch4-5\Chapt4-5Lab\Chapt4-Lab05\obj\Debug\Chapt4-Lab05.pdb

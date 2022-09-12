@@ -16,7 +16,7 @@ namespace Pretest02_01
         {
             Application.EnableVisualStyles();
             Application.SetCompatibleTextRenderingDefault(false);
-            Application.Run(new frmTempConvertor());
+            Application.Run(new frmDistanceConvertor());
         }
     }
 }
