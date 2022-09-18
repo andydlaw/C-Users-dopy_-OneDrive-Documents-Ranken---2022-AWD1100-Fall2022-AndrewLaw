@@ -1,0 +1,11 @@
+C:\Users\dopy_\OneDrive\Documents\Ranken - 2022\AWD1100-Fall2022-AndrewLaw\Labs\Ch6-7\Chapt6-7Lab\Chapt06-Lab07\bin\Debug\Chapt06-Lab07.exe.config
+C:\Users\dopy_\OneDrive\Documents\Ranken - 2022\AWD1100-Fall2022-AndrewLaw\Labs\Ch6-7\Chapt6-7Lab\Chapt06-Lab07\bin\Debug\Chapt06-Lab07.exe
+C:\Users\dopy_\OneDrive\Documents\Ranken - 2022\AWD1100-Fall2022-AndrewLaw\Labs\Ch6-7\Chapt6-7Lab\Chapt06-Lab07\bin\Debug\Chapt06-Lab07.pdb
+C:\Users\dopy_\OneDrive\Documents\Ranken - 2022\AWD1100-Fall2022-AndrewLaw\Labs\Ch6-7\Chapt6-7Lab\Chapt06-Lab07\obj\Debug\Chapt06-Lab07.csproj.AssemblyReference.cache
+C:\Users\dopy_\OneDrive\Documents\Ranken - 2022\AWD1100-Fall2022-AndrewLaw\Labs\Ch6-7\Chapt6-7Lab\Chapt06-Lab07\obj\Debug\Chapt06-Lab07.csproj.SuggestedBindingRedirects.cache
+C:\Users\dopy_\OneDrive\Documents\Ranken - 2022\AWD1100-Fall2022-AndrewLaw\Labs\Ch6-7\Chapt6-7Lab\Chapt06-Lab07\obj\Debug\Chapt06_Lab07.frmCreditCardMasker.resources
+C:\Users\dopy_\OneDrive\Documents\Ranken - 2022\AWD1100-Fall2022-AndrewLaw\Labs\Ch6-7\Chapt6-7Lab\Chapt06-Lab07\obj\Debug\Chapt06_Lab07.Properties.Resources.resources
+C:\Users\dopy_\OneDrive\Documents\Ranken - 2022\AWD1100-Fall2022-AndrewLaw\Labs\Ch6-7\Chapt6-7Lab\Chapt06-Lab07\obj\Debug\Chapt06-Lab07.csproj.GenerateResource.cache
+C:\Users\dopy_\OneDrive\Documents\Ranken - 2022\AWD1100-Fall2022-AndrewLaw\Labs\Ch6-7\Chapt6-7Lab\Chapt06-Lab07\obj\Debug\Chapt06-Lab07.csproj.CoreCompileInputs.cache
+C:\Users\dopy_\OneDrive\Documents\Ranken - 2022\AWD1100-Fall2022-AndrewLaw\Labs\Ch6-7\Chapt6-7Lab\Chapt06-Lab07\obj\Debug\Chapt06-Lab07.exe
+C:\Users\dopy_\OneDrive\Documents\Ranken - 2022\AWD1100-Fall2022-AndrewLaw\Labs\Ch6-7\Chapt6-7Lab\Chapt06-Lab07\obj\Debug\Chapt06-Lab07.pdb

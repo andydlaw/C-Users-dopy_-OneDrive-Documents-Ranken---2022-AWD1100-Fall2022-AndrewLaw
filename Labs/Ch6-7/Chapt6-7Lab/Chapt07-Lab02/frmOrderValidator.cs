@@ -8,6 +8,11 @@ using System.Text;
 using System.Threading.Tasks;
 using System.Windows.Forms;
 
+/*
+ * LB2 OrderExceptions
+Create a GUI application to check that orders are valid.
+*/
+
 namespace Chapt07_Lab02
 {
     public partial class frmOrderValidator : Form

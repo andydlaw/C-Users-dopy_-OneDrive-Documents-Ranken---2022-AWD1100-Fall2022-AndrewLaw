@@ -8,6 +8,14 @@ using System.Text;
 using System.Threading.Tasks;
 using System.Windows.Forms;
 
+/*
+ * LB5. Write a GUI application that counts the number of vowels in a phrase that is entered by the user. For this exercise, count both uppercase and lowercase vowels, but do not consider y to be a vowel.
+
+Create a method named CountVowels() that accepts a phrase and returns the number of vowels in that phrase. This method should not have any side effects.
+
+Hint: Treat the string like an array of characters.
+*/
+
 namespace Chapt06_Lab05
 {
     public partial class frmVowels : Form
