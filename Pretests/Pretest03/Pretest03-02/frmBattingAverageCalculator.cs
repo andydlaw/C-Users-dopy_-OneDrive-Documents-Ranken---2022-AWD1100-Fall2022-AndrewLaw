@@ -2,14 +2,43 @@
 using System.Windows.Forms;
 
 /*
- * In baseball, a player's average is calculated by dividing hits by at bats.  For example, a player with 4 hits in 10 at bats has an average of .400, typically stated as a 400 average. 
-Write a C# GUI windows forms program that lets the user input hits and at bats.  From there, calculate the associated batting average. 
-Also, keep track of the highest batting average, the lowest batting average, and the total number of averages that have been calculated.  Store these are read-only textboxes. 
-For both hits and at bats, verify that: 
-a) The value inputted is not empty. 
-b) The value inputted is not non-numeric. 
-c) The value inputted is 0 or more. 
-d) For hits, the value is <= the value for at bats. 
+For this pretest, you will continue working with the two different C# graphical user interface (GUI) windows forms projects you created for the first (Chapters 1 – 5) pretest.
+
+NOTE: Requirements a – d below ARE NOT NEW, while requirements  e – f below ARE NEW: 
+
+a) For both programs, set the Tab Order, AcceptButton, CancelButton, and Start Position accordingly.  
+
+b) For both programs, change the name of the form accordingly and the form text as well.  
+
+c) For both programs, create a program prologue at the beginning of the code.  
+
+d) For both programs, for any numeric values inputted, verify that each value is not empty, not non-numeric, and not out of range.
+
+e) NEW: Modularize each program.  Try to have no executable code in any control except for calls to user-written methods.
+
+f)	NEW: Add exception handling to each program.  Change the Not Empty, Not non-numeric, and Range tests on the next pages to use try/catch exception handling instead of the current user-written methods.  Set up control tags where necessary.
+
+
+In baseball, a player's average is calculated by dividing hits by at bats. For example, a player with 4 hits in 10 at bats has an average of .400, typically stated as a 400 average.
+
+Write a C# GUI windows forms program that lets the user input hits and at bats. From there, calculate the associated batting average.
+
+Also, keep track of the highest batting average, the lowest batting average, and the total number of averages that have been calculated. Store these are read-only textboxes.
+
+NOTE: The requirements below ARE NOT NEW, but they have been modified!!!
+
+For hits & at bats, use exception handling to verify that:
+
+a) The value inputted is not empty.
+
+b) The value inputted is not non-numeric.
+
+c) The value inputted is 0 or more.
+
+d) For hits, the value is <= the value for at bats.
+
+See the program runs on the following pages for examples.
+
 */
 
 namespace Pretest02_02
