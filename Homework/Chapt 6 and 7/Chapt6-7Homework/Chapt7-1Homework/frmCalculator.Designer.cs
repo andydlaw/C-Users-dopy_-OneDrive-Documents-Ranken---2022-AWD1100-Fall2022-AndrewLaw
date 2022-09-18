@@ -124,6 +124,7 @@
             this.txtNumOne.TabIndex = 0;
             this.txtNumOne.Tag = "number";
             this.txtNumOne.TextAlign = System.Windows.Forms.HorizontalAlignment.Center;
+            this.txtNumOne.TextChanged += new System.EventHandler(this.txtNumOne_TextChanged);
             // 
             // txtNumTwo
             // 
@@ -133,6 +134,7 @@
             this.txtNumTwo.Size = new System.Drawing.Size(193, 30);
             this.txtNumTwo.TabIndex = 2;
             this.txtNumTwo.TextAlign = System.Windows.Forms.HorizontalAlignment.Center;
+            this.txtNumTwo.TextChanged += new System.EventHandler(this.txtNumTwo_TextChanged);
             // 
             // txtResult
             // 
@@ -153,6 +155,7 @@
             this.txtOperator.TabIndex = 1;
             this.txtOperator.Tag = "number";
             this.txtOperator.TextAlign = System.Windows.Forms.HorizontalAlignment.Center;
+            this.txtOperator.TextChanged += new System.EventHandler(this.txtOperator_TextChanged);
             // 
             // frmCalculator
             // 

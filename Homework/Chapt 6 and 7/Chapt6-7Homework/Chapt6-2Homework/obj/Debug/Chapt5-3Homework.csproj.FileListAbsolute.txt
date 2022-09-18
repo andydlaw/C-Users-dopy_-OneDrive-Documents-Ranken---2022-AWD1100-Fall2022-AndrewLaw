@@ -1,0 +1,11 @@
+C:\Users\dopy_\OneDrive\Documents\Ranken - 2022\AWD1100-Fall2022-AndrewLaw\Homework\Chapt 4 and 5\Chapt4-5Homework\Chapt5-3Homework\bin\Debug\Chapt5-3Homework.exe.config
+C:\Users\dopy_\OneDrive\Documents\Ranken - 2022\AWD1100-Fall2022-AndrewLaw\Homework\Chapt 4 and 5\Chapt4-5Homework\Chapt5-3Homework\bin\Debug\Chapt5-3Homework.exe
+C:\Users\dopy_\OneDrive\Documents\Ranken - 2022\AWD1100-Fall2022-AndrewLaw\Homework\Chapt 4 and 5\Chapt4-5Homework\Chapt5-3Homework\bin\Debug\Chapt5-3Homework.pdb
+C:\Users\dopy_\OneDrive\Documents\Ranken - 2022\AWD1100-Fall2022-AndrewLaw\Homework\Chapt 4 and 5\Chapt4-5Homework\Chapt5-3Homework\obj\Debug\Chapt5-3Homework.csproj.AssemblyReference.cache
+C:\Users\dopy_\OneDrive\Documents\Ranken - 2022\AWD1100-Fall2022-AndrewLaw\Homework\Chapt 4 and 5\Chapt4-5Homework\Chapt5-3Homework\obj\Debug\Chapt5-3Homework.csproj.SuggestedBindingRedirects.cache
+C:\Users\dopy_\OneDrive\Documents\Ranken - 2022\AWD1100-Fall2022-AndrewLaw\Homework\Chapt 4 and 5\Chapt4-5Homework\Chapt5-3Homework\obj\Debug\Chapt5_3Homework.frmIncomeTaxCalculator.resources
+C:\Users\dopy_\OneDrive\Documents\Ranken - 2022\AWD1100-Fall2022-AndrewLaw\Homework\Chapt 4 and 5\Chapt4-5Homework\Chapt5-3Homework\obj\Debug\Chapt5_3Homework.Properties.Resources.resources
+C:\Users\dopy_\OneDrive\Documents\Ranken - 2022\AWD1100-Fall2022-AndrewLaw\Homework\Chapt 4 and 5\Chapt4-5Homework\Chapt5-3Homework\obj\Debug\Chapt5-3Homework.csproj.GenerateResource.cache
+C:\Users\dopy_\OneDrive\Documents\Ranken - 2022\AWD1100-Fall2022-AndrewLaw\Homework\Chapt 4 and 5\Chapt4-5Homework\Chapt5-3Homework\obj\Debug\Chapt5-3Homework.csproj.CoreCompileInputs.cache
+C:\Users\dopy_\OneDrive\Documents\Ranken - 2022\AWD1100-Fall2022-AndrewLaw\Homework\Chapt 4 and 5\Chapt4-5Homework\Chapt5-3Homework\obj\Debug\Chapt5-3Homework.exe
+C:\Users\dopy_\OneDrive\Documents\Ranken - 2022\AWD1100-Fall2022-AndrewLaw\Homework\Chapt 4 and 5\Chapt4-5Homework\Chapt5-3Homework\obj\Debug\Chapt5-3Homework.pdb

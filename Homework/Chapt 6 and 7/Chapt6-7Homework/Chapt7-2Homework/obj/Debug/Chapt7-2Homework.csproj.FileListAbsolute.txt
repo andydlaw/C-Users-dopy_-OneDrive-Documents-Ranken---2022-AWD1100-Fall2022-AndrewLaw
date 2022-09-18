@@ -1,0 +1,11 @@
+C:\Users\dopy_\OneDrive\Documents\Ranken - 2022\AWD1100-Fall2022-AndrewLaw\Homework\Chapt 6 and 7\Chapt6-7Homework\Chapt7-2Homework\obj\Debug\Chapt7-2Homework.csproj.AssemblyReference.cache
+C:\Users\dopy_\OneDrive\Documents\Ranken - 2022\AWD1100-Fall2022-AndrewLaw\Homework\Chapt 6 and 7\Chapt6-7Homework\Chapt7-2Homework\obj\Debug\Chapt7-2Homework.csproj.SuggestedBindingRedirects.cache
+C:\Users\dopy_\OneDrive\Documents\Ranken - 2022\AWD1100-Fall2022-AndrewLaw\Homework\Chapt 6 and 7\Chapt6-7Homework\Chapt7-2Homework\obj\Debug\Ch6CalculatorGUI01.frmCalculator.resources
+C:\Users\dopy_\OneDrive\Documents\Ranken - 2022\AWD1100-Fall2022-AndrewLaw\Homework\Chapt 6 and 7\Chapt6-7Homework\Chapt7-2Homework\obj\Debug\Chapt71Homework.Properties.Resources.resources
+C:\Users\dopy_\OneDrive\Documents\Ranken - 2022\AWD1100-Fall2022-AndrewLaw\Homework\Chapt 6 and 7\Chapt6-7Homework\Chapt7-2Homework\obj\Debug\Chapt7-2Homework.csproj.GenerateResource.cache
+C:\Users\dopy_\OneDrive\Documents\Ranken - 2022\AWD1100-Fall2022-AndrewLaw\Homework\Chapt 6 and 7\Chapt6-7Homework\Chapt7-2Homework\obj\Debug\Chapt7-2Homework.csproj.CoreCompileInputs.cache
+C:\Users\dopy_\OneDrive\Documents\Ranken - 2022\AWD1100-Fall2022-AndrewLaw\Homework\Chapt 6 and 7\Chapt6-7Homework\Chapt7-2Homework\obj\Debug\Chapt7-1Homework.exe
+C:\Users\dopy_\OneDrive\Documents\Ranken - 2022\AWD1100-Fall2022-AndrewLaw\Homework\Chapt 6 and 7\Chapt6-7Homework\Chapt7-2Homework\obj\Debug\Chapt7-1Homework.pdb
+C:\Users\dopy_\OneDrive\Documents\Ranken - 2022\AWD1100-Fall2022-AndrewLaw\Homework\Chapt 6 and 7\Chapt6-7Homework\Chapt7-2Homework\bin\Debug\Chapt7-1Homework.exe.config
+C:\Users\dopy_\OneDrive\Documents\Ranken - 2022\AWD1100-Fall2022-AndrewLaw\Homework\Chapt 6 and 7\Chapt6-7Homework\Chapt7-2Homework\bin\Debug\Chapt7-1Homework.exe
+C:\Users\dopy_\OneDrive\Documents\Ranken - 2022\AWD1100-Fall2022-AndrewLaw\Homework\Chapt 6 and 7\Chapt6-7Homework\Chapt7-2Homework\bin\Debug\Chapt7-1Homework.pdb

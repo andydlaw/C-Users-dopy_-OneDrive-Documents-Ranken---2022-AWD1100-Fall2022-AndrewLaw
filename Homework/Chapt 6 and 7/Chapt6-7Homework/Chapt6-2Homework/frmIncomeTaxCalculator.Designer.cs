@@ -1,14 +1,14 @@
-﻿namespace TaxCalculator
+﻿namespace Chapt5_3Homework
 {
-    partial class Form1
+    partial class frmIncomeTaxCalculator
     {
         /// <summary>
-        ///  Required designer variable.
+        /// Required designer variable.
         /// </summary>
         private System.ComponentModel.IContainer components = null;
 
         /// <summary>
-        ///  Clean up any resources being used.
+        /// Clean up any resources being used.
         /// </summary>
         /// <param name="disposing">true if managed resources should be disposed; otherwise, false.</param>
         protected override void Dispose(bool disposing)
@@ -23,96 +23,106 @@
         #region Windows Form Designer generated code
 
         /// <summary>
-        ///  Required method for Designer support - do not modify
-        ///  the contents of this method with the code editor.
+        /// Required method for Designer support - do not modify
+        /// the contents of this method with the code editor.
         /// </summary>
         private void InitializeComponent()
         {
-            this.label1 = new System.Windows.Forms.Label();
-            this.txtIncome = new System.Windows.Forms.TextBox();
-            this.label2 = new System.Windows.Forms.Label();
-            this.txtTax = new System.Windows.Forms.TextBox();
+            this.lblTaxableIncome = new System.Windows.Forms.Label();
+            this.lblIncomeTaxOwed = new System.Windows.Forms.Label();
+            this.txtTaxableIncome = new System.Windows.Forms.TextBox();
+            this.txtIncomeTaxOwed = new System.Windows.Forms.TextBox();
             this.btnCalculate = new System.Windows.Forms.Button();
+            this.btnClear = new System.Windows.Forms.Button();
             this.btnExit = new System.Windows.Forms.Button();
             this.SuspendLayout();
             // 
-            // label1
+            // lblTaxableIncome
             // 
-            this.label1.AutoSize = true;
-            this.label1.ImageAlign = System.Drawing.ContentAlignment.MiddleLeft;
-            this.label1.Location = new System.Drawing.Point(15, 22);
-            this.label1.Margin = new System.Windows.Forms.Padding(2, 0, 2, 0);
-            this.label1.Name = "label1";
-            this.label1.Size = new System.Drawing.Size(92, 15);
-            this.label1.TabIndex = 0;
-            this.label1.Text = "Taxable income:";
+            this.lblTaxableIncome.AutoSize = true;
+            this.lblTaxableIncome.Font = new System.Drawing.Font("Microsoft Sans Serif", 16.2F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.lblTaxableIncome.Location = new System.Drawing.Point(118, 50);
+            this.lblTaxableIncome.Name = "lblTaxableIncome";
+            this.lblTaxableIncome.Size = new System.Drawing.Size(238, 32);
+            this.lblTaxableIncome.TabIndex = 0;
+            this.lblTaxableIncome.Text = "Taxable Income:";
             // 
-            // txtIncome
+            // lblIncomeTaxOwed
             // 
-            this.txtIncome.Location = new System.Drawing.Point(129, 19);
-            this.txtIncome.Margin = new System.Windows.Forms.Padding(2, 2, 2, 2);
-            this.txtIncome.Name = "txtIncome";
-            this.txtIncome.Size = new System.Drawing.Size(106, 23);
-            this.txtIncome.TabIndex = 0;
+            this.lblIncomeTaxOwed.AutoSize = true;
+            this.lblIncomeTaxOwed.Font = new System.Drawing.Font("Microsoft Sans Serif", 16.2F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.lblIncomeTaxOwed.Location = new System.Drawing.Point(91, 115);
+            this.lblIncomeTaxOwed.Name = "lblIncomeTaxOwed";
+            this.lblIncomeTaxOwed.Size = new System.Drawing.Size(265, 32);
+            this.lblIncomeTaxOwed.TabIndex = 1;
+            this.lblIncomeTaxOwed.Text = "Income Tax Owed:";
             // 
-            // label2
+            // txtTaxableIncome
             // 
-            this.label2.AutoSize = true;
-            this.label2.ImageAlign = System.Drawing.ContentAlignment.MiddleLeft;
-            this.label2.Location = new System.Drawing.Point(15, 52);
-            this.label2.Margin = new System.Windows.Forms.Padding(2, 0, 2, 0);
-            this.label2.Name = "label2";
-            this.label2.Size = new System.Drawing.Size(101, 15);
-            this.label2.TabIndex = 2;
-            this.label2.Text = "Income tax owed:";
+            this.txtTaxableIncome.Font = new System.Drawing.Font("Microsoft Sans Serif", 16.2F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.txtTaxableIncome.Location = new System.Drawing.Point(405, 47);
+            this.txtTaxableIncome.Name = "txtTaxableIncome";
+            this.txtTaxableIncome.Size = new System.Drawing.Size(195, 38);
+            this.txtTaxableIncome.TabIndex = 2;
+            this.txtTaxableIncome.TextChanged += new System.EventHandler(this.txtTaxableIncome_TextChanged);
             // 
-            // txtTax
+            // txtIncomeTaxOwed
             // 
-            this.txtTax.Location = new System.Drawing.Point(129, 49);
-            this.txtTax.Margin = new System.Windows.Forms.Padding(2, 2, 2, 2);
-            this.txtTax.Name = "txtTax";
-            this.txtTax.ReadOnly = true;
-            this.txtTax.Size = new System.Drawing.Size(106, 23);
-            this.txtTax.TabIndex = 3;
-            this.txtTax.TabStop = false;
+            this.txtIncomeTaxOwed.Font = new System.Drawing.Font("Microsoft Sans Serif", 16.2F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.txtIncomeTaxOwed.Location = new System.Drawing.Point(405, 112);
+            this.txtIncomeTaxOwed.Name = "txtIncomeTaxOwed";
+            this.txtIncomeTaxOwed.Size = new System.Drawing.Size(195, 38);
+            this.txtIncomeTaxOwed.TabIndex = 3;
             // 
             // btnCalculate
             // 
-            this.btnCalculate.Location = new System.Drawing.Point(43, 86);
-            this.btnCalculate.Margin = new System.Windows.Forms.Padding(2, 2, 2, 2);
+            this.btnCalculate.Font = new System.Drawing.Font("Microsoft Sans Serif", 16.2F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.btnCalculate.Location = new System.Drawing.Point(50, 187);
             this.btnCalculate.Name = "btnCalculate";
-            this.btnCalculate.Size = new System.Drawing.Size(78, 25);
+            this.btnCalculate.Size = new System.Drawing.Size(170, 54);
             this.btnCalculate.TabIndex = 4;
-            this.btnCalculate.Text = "&Calculate";
+            this.btnCalculate.Text = "Calculate";
             this.btnCalculate.UseVisualStyleBackColor = true;
             this.btnCalculate.Click += new System.EventHandler(this.btnCalculate_Click);
             // 
+            // btnClear
+            // 
+            this.btnClear.DialogResult = System.Windows.Forms.DialogResult.Cancel;
+            this.btnClear.Font = new System.Drawing.Font("Microsoft Sans Serif", 16.2F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.btnClear.Location = new System.Drawing.Point(271, 187);
+            this.btnClear.Name = "btnClear";
+            this.btnClear.Size = new System.Drawing.Size(170, 54);
+            this.btnClear.TabIndex = 5;
+            this.btnClear.Text = "Clear";
+            this.btnClear.UseVisualStyleBackColor = true;
+            this.btnClear.Click += new System.EventHandler(this.btnClear_Click);
+            // 
             // btnExit
             // 
-            this.btnExit.Location = new System.Drawing.Point(155, 86);
-            this.btnExit.Margin = new System.Windows.Forms.Padding(2, 2, 2, 2);
+            this.btnExit.Font = new System.Drawing.Font("Microsoft Sans Serif", 16.2F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.btnExit.Location = new System.Drawing.Point(491, 187);
             this.btnExit.Name = "btnExit";
-            this.btnExit.Size = new System.Drawing.Size(78, 25);
-            this.btnExit.TabIndex = 5;
-            this.btnExit.Text = "E&xit";
+            this.btnExit.Size = new System.Drawing.Size(170, 54);
+            this.btnExit.TabIndex = 6;
+            this.btnExit.Text = "Exit";
             this.btnExit.UseVisualStyleBackColor = true;
             this.btnExit.Click += new System.EventHandler(this.btnExit_Click);
             // 
-            // Form1
+            // frmIncomeTaxCalculator
             // 
             this.AcceptButton = this.btnCalculate;
-            this.AutoScaleDimensions = new System.Drawing.SizeF(7F, 15F);
+            this.AutoScaleDimensions = new System.Drawing.SizeF(8F, 16F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
-            this.CancelButton = this.btnExit;
-            this.ClientSize = new System.Drawing.Size(309, 131);
+            this.CancelButton = this.btnClear;
+            this.ClientSize = new System.Drawing.Size(718, 299);
             this.Controls.Add(this.btnExit);
+            this.Controls.Add(this.btnClear);
             this.Controls.Add(this.btnCalculate);
-            this.Controls.Add(this.txtTax);
-            this.Controls.Add(this.label2);
-            this.Controls.Add(this.txtIncome);
-            this.Controls.Add(this.label1);
-            this.Margin = new System.Windows.Forms.Padding(2, 2, 2, 2);
-            this.Name = "Form1";
+            this.Controls.Add(this.txtIncomeTaxOwed);
+            this.Controls.Add(this.txtTaxableIncome);
+            this.Controls.Add(this.lblIncomeTaxOwed);
+            this.Controls.Add(this.lblTaxableIncome);
+            this.Name = "frmIncomeTaxCalculator";
             this.StartPosition = System.Windows.Forms.FormStartPosition.CenterScreen;
             this.Text = "Income Tax Calculator";
             this.ResumeLayout(false);
@@ -122,11 +132,12 @@
 
         #endregion
 
-        private System.Windows.Forms.Label label1;
-        private System.Windows.Forms.TextBox txtIncome;
-        private System.Windows.Forms.Label label2;
-        private System.Windows.Forms.TextBox txtTax;
+        private System.Windows.Forms.Label lblTaxableIncome;
+        private System.Windows.Forms.Label lblIncomeTaxOwed;
+        private System.Windows.Forms.TextBox txtTaxableIncome;
+        private System.Windows.Forms.TextBox txtIncomeTaxOwed;
         private System.Windows.Forms.Button btnCalculate;
+        private System.Windows.Forms.Button btnClear;
         private System.Windows.Forms.Button btnExit;
     }
 }

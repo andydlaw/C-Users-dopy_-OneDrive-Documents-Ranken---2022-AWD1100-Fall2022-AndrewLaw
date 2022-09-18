@@ -114,5 +114,20 @@ namespace Ch6CalculatorGUI01
             }
             return answer;
         }
+
+        private void txtNumTwo_TextChanged(object sender, EventArgs e)
+        {
+            txtResult.Text = "";
+        }
+
+        private void txtOperator_TextChanged(object sender, EventArgs e)
+        {
+            txtResult.Text = "";
+        }
+
+        private void txtNumOne_TextChanged(object sender, EventArgs e)
+        {
+            txtResult.Text = "";
+        }
     }
 }
