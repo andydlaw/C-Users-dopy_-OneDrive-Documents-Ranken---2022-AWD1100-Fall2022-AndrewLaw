@@ -1,0 +1,11 @@
+C:\Users\dopy_\OneDrive\Documents\Ranken - 2022\AWD1100-Fall2022-AndrewLaw\Labs\Ch6-7\Chapt6-7Lab\Chapt06-Lab06\bin\Debug\Chapt06-Lab06.exe.config
+C:\Users\dopy_\OneDrive\Documents\Ranken - 2022\AWD1100-Fall2022-AndrewLaw\Labs\Ch6-7\Chapt6-7Lab\Chapt06-Lab06\bin\Debug\Chapt06-Lab06.exe
+C:\Users\dopy_\OneDrive\Documents\Ranken - 2022\AWD1100-Fall2022-AndrewLaw\Labs\Ch6-7\Chapt6-7Lab\Chapt06-Lab06\bin\Debug\Chapt06-Lab06.pdb
+C:\Users\dopy_\OneDrive\Documents\Ranken - 2022\AWD1100-Fall2022-AndrewLaw\Labs\Ch6-7\Chapt6-7Lab\Chapt06-Lab06\obj\Debug\Chapt06-Lab06.csproj.AssemblyReference.cache
+C:\Users\dopy_\OneDrive\Documents\Ranken - 2022\AWD1100-Fall2022-AndrewLaw\Labs\Ch6-7\Chapt6-7Lab\Chapt06-Lab06\obj\Debug\Chapt06-Lab06.csproj.SuggestedBindingRedirects.cache
+C:\Users\dopy_\OneDrive\Documents\Ranken - 2022\AWD1100-Fall2022-AndrewLaw\Labs\Ch6-7\Chapt6-7Lab\Chapt06-Lab06\obj\Debug\Chapt06_Lab06.frmPaintingEstimate.resources
+C:\Users\dopy_\OneDrive\Documents\Ranken - 2022\AWD1100-Fall2022-AndrewLaw\Labs\Ch6-7\Chapt6-7Lab\Chapt06-Lab06\obj\Debug\Chapt06_Lab06.Properties.Resources.resources
+C:\Users\dopy_\OneDrive\Documents\Ranken - 2022\AWD1100-Fall2022-AndrewLaw\Labs\Ch6-7\Chapt6-7Lab\Chapt06-Lab06\obj\Debug\Chapt06-Lab06.csproj.GenerateResource.cache
+C:\Users\dopy_\OneDrive\Documents\Ranken - 2022\AWD1100-Fall2022-AndrewLaw\Labs\Ch6-7\Chapt6-7Lab\Chapt06-Lab06\obj\Debug\Chapt06-Lab06.csproj.CoreCompileInputs.cache
+C:\Users\dopy_\OneDrive\Documents\Ranken - 2022\AWD1100-Fall2022-AndrewLaw\Labs\Ch6-7\Chapt6-7Lab\Chapt06-Lab06\obj\Debug\Chapt06-Lab06.exe
+C:\Users\dopy_\OneDrive\Documents\Ranken - 2022\AWD1100-Fall2022-AndrewLaw\Labs\Ch6-7\Chapt6-7Lab\Chapt06-Lab06\obj\Debug\Chapt06-Lab06.pdb

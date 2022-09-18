@@ -1,0 +1,32 @@
+C:\Users\dopy_\OneDrive\Documents\Ranken - 2022\AWD1100-Fall2022-AndrewLaw\Homework\Exercises\Extra Starts\Chapter 06\TaxCalculator\TaxCalculator\bin\Debug\netcoreapp3.1\Chapt6-2Homework.exe
+C:\Users\dopy_\OneDrive\Documents\Ranken - 2022\AWD1100-Fall2022-AndrewLaw\Homework\Exercises\Extra Starts\Chapter 06\TaxCalculator\TaxCalculator\bin\Debug\netcoreapp3.1\Chapt6-2Homework.deps.json
+C:\Users\dopy_\OneDrive\Documents\Ranken - 2022\AWD1100-Fall2022-AndrewLaw\Homework\Exercises\Extra Starts\Chapter 06\TaxCalculator\TaxCalculator\bin\Debug\netcoreapp3.1\Chapt6-2Homework.runtimeconfig.json
+C:\Users\dopy_\OneDrive\Documents\Ranken - 2022\AWD1100-Fall2022-AndrewLaw\Homework\Exercises\Extra Starts\Chapter 06\TaxCalculator\TaxCalculator\bin\Debug\netcoreapp3.1\Chapt6-2Homework.runtimeconfig.dev.json
+C:\Users\dopy_\OneDrive\Documents\Ranken - 2022\AWD1100-Fall2022-AndrewLaw\Homework\Exercises\Extra Starts\Chapter 06\TaxCalculator\TaxCalculator\bin\Debug\netcoreapp3.1\Chapt6-2Homework.dll
+C:\Users\dopy_\OneDrive\Documents\Ranken - 2022\AWD1100-Fall2022-AndrewLaw\Homework\Exercises\Extra Starts\Chapter 06\TaxCalculator\TaxCalculator\bin\Debug\netcoreapp3.1\Chapt6-2Homework.pdb
+C:\Users\dopy_\OneDrive\Documents\Ranken - 2022\AWD1100-Fall2022-AndrewLaw\Homework\Exercises\Extra Starts\Chapter 06\TaxCalculator\TaxCalculator\obj\Debug\netcoreapp3.1\Chapt6-2Homework.csproj.AssemblyReference.cache
+C:\Users\dopy_\OneDrive\Documents\Ranken - 2022\AWD1100-Fall2022-AndrewLaw\Homework\Exercises\Extra Starts\Chapter 06\TaxCalculator\TaxCalculator\obj\Debug\netcoreapp3.1\TaxCalculator.Form1.resources
+C:\Users\dopy_\OneDrive\Documents\Ranken - 2022\AWD1100-Fall2022-AndrewLaw\Homework\Exercises\Extra Starts\Chapter 06\TaxCalculator\TaxCalculator\obj\Debug\netcoreapp3.1\Chapt6-2Homework.csproj.GenerateResource.cache
+C:\Users\dopy_\OneDrive\Documents\Ranken - 2022\AWD1100-Fall2022-AndrewLaw\Homework\Exercises\Extra Starts\Chapter 06\TaxCalculator\TaxCalculator\obj\Debug\netcoreapp3.1\Chapt6-2Homework.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dopy_\OneDrive\Documents\Ranken - 2022\AWD1100-Fall2022-AndrewLaw\Homework\Exercises\Extra Starts\Chapter 06\TaxCalculator\TaxCalculator\obj\Debug\netcoreapp3.1\Chapt6-2Homework.AssemblyInfoInputs.cache
+C:\Users\dopy_\OneDrive\Documents\Ranken - 2022\AWD1100-Fall2022-AndrewLaw\Homework\Exercises\Extra Starts\Chapter 06\TaxCalculator\TaxCalculator\obj\Debug\netcoreapp3.1\Chapt6-2Homework.AssemblyInfo.cs
+C:\Users\dopy_\OneDrive\Documents\Ranken - 2022\AWD1100-Fall2022-AndrewLaw\Homework\Exercises\Extra Starts\Chapter 06\TaxCalculator\TaxCalculator\obj\Debug\netcoreapp3.1\Chapt6-2Homework.csproj.CoreCompileInputs.cache
+C:\Users\dopy_\OneDrive\Documents\Ranken - 2022\AWD1100-Fall2022-AndrewLaw\Homework\Exercises\Extra Starts\Chapter 06\TaxCalculator\TaxCalculator\obj\Debug\netcoreapp3.1\Chapt6-2Homework.dll
+C:\Users\dopy_\OneDrive\Documents\Ranken - 2022\AWD1100-Fall2022-AndrewLaw\Homework\Exercises\Extra Starts\Chapter 06\TaxCalculator\TaxCalculator\obj\Debug\netcoreapp3.1\Chapt6-2Homework.pdb
+C:\Users\dopy_\OneDrive\Documents\Ranken - 2022\AWD1100-Fall2022-AndrewLaw\Homework\Exercises\Extra Starts\Chapter 06\TaxCalculator\TaxCalculator\obj\Debug\netcoreapp3.1\Chapt6-2Homework.genruntimeconfig.cache
+C:\Users\dopy_\OneDrive\Documents\Ranken - 2022\AWD1100-Fall2022-AndrewLaw\Homework\Chapt 6 and 7\Chapt6-7Homework\Chapt6-2Homework\bin\Debug\netcoreapp3.1\Chapt6-2Homework.exe
+C:\Users\dopy_\OneDrive\Documents\Ranken - 2022\AWD1100-Fall2022-AndrewLaw\Homework\Chapt 6 and 7\Chapt6-7Homework\Chapt6-2Homework\bin\Debug\netcoreapp3.1\Chapt6-2Homework.deps.json
+C:\Users\dopy_\OneDrive\Documents\Ranken - 2022\AWD1100-Fall2022-AndrewLaw\Homework\Chapt 6 and 7\Chapt6-7Homework\Chapt6-2Homework\bin\Debug\netcoreapp3.1\Chapt6-2Homework.runtimeconfig.json
+C:\Users\dopy_\OneDrive\Documents\Ranken - 2022\AWD1100-Fall2022-AndrewLaw\Homework\Chapt 6 and 7\Chapt6-7Homework\Chapt6-2Homework\bin\Debug\netcoreapp3.1\Chapt6-2Homework.runtimeconfig.dev.json
+C:\Users\dopy_\OneDrive\Documents\Ranken - 2022\AWD1100-Fall2022-AndrewLaw\Homework\Chapt 6 and 7\Chapt6-7Homework\Chapt6-2Homework\bin\Debug\netcoreapp3.1\Chapt6-2Homework.dll
+C:\Users\dopy_\OneDrive\Documents\Ranken - 2022\AWD1100-Fall2022-AndrewLaw\Homework\Chapt 6 and 7\Chapt6-7Homework\Chapt6-2Homework\bin\Debug\netcoreapp3.1\Chapt6-2Homework.pdb
+C:\Users\dopy_\OneDrive\Documents\Ranken - 2022\AWD1100-Fall2022-AndrewLaw\Homework\Chapt 6 and 7\Chapt6-7Homework\Chapt6-2Homework\obj\Debug\netcoreapp3.1\Chapt6-2Homework.csproj.AssemblyReference.cache
+C:\Users\dopy_\OneDrive\Documents\Ranken - 2022\AWD1100-Fall2022-AndrewLaw\Homework\Chapt 6 and 7\Chapt6-7Homework\Chapt6-2Homework\obj\Debug\netcoreapp3.1\TaxCalculator.Form1.resources
+C:\Users\dopy_\OneDrive\Documents\Ranken - 2022\AWD1100-Fall2022-AndrewLaw\Homework\Chapt 6 and 7\Chapt6-7Homework\Chapt6-2Homework\obj\Debug\netcoreapp3.1\Chapt6-2Homework.csproj.GenerateResource.cache
+C:\Users\dopy_\OneDrive\Documents\Ranken - 2022\AWD1100-Fall2022-AndrewLaw\Homework\Chapt 6 and 7\Chapt6-7Homework\Chapt6-2Homework\obj\Debug\netcoreapp3.1\Chapt6-2Homework.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dopy_\OneDrive\Documents\Ranken - 2022\AWD1100-Fall2022-AndrewLaw\Homework\Chapt 6 and 7\Chapt6-7Homework\Chapt6-2Homework\obj\Debug\netcoreapp3.1\Chapt6-2Homework.AssemblyInfoInputs.cache
+C:\Users\dopy_\OneDrive\Documents\Ranken - 2022\AWD1100-Fall2022-AndrewLaw\Homework\Chapt 6 and 7\Chapt6-7Homework\Chapt6-2Homework\obj\Debug\netcoreapp3.1\Chapt6-2Homework.AssemblyInfo.cs
+C:\Users\dopy_\OneDrive\Documents\Ranken - 2022\AWD1100-Fall2022-AndrewLaw\Homework\Chapt 6 and 7\Chapt6-7Homework\Chapt6-2Homework\obj\Debug\netcoreapp3.1\Chapt6-2Homework.csproj.CoreCompileInputs.cache
+C:\Users\dopy_\OneDrive\Documents\Ranken - 2022\AWD1100-Fall2022-AndrewLaw\Homework\Chapt 6 and 7\Chapt6-7Homework\Chapt6-2Homework\obj\Debug\netcoreapp3.1\Chapt6-2Homework.dll
+C:\Users\dopy_\OneDrive\Documents\Ranken - 2022\AWD1100-Fall2022-AndrewLaw\Homework\Chapt 6 and 7\Chapt6-7Homework\Chapt6-2Homework\obj\Debug\netcoreapp3.1\Chapt6-2Homework.pdb
+C:\Users\dopy_\OneDrive\Documents\Ranken - 2022\AWD1100-Fall2022-AndrewLaw\Homework\Chapt 6 and 7\Chapt6-7Homework\Chapt6-2Homework\obj\Debug\netcoreapp3.1\Chapt6-2Homework.genruntimeconfig.cache
