@@ -1,0 +1,12 @@
+C:\Users\dopy_\OneDrive\Documents\Ranken - 2022\AWD1100-Fall2022-AndrewLaw\Homework\Chapt 9 - 11\Chapt9-11Homework\Chapt10-2Homework\bin\Debug\Chapt10-2Homework.exe.config
+C:\Users\dopy_\OneDrive\Documents\Ranken - 2022\AWD1100-Fall2022-AndrewLaw\Homework\Chapt 9 - 11\Chapt9-11Homework\Chapt10-2Homework\bin\Debug\Chapt10-2Homework.exe
+C:\Users\dopy_\OneDrive\Documents\Ranken - 2022\AWD1100-Fall2022-AndrewLaw\Homework\Chapt 9 - 11\Chapt9-11Homework\Chapt10-2Homework\bin\Debug\Chapt10-2Homework.pdb
+C:\Users\dopy_\OneDrive\Documents\Ranken - 2022\AWD1100-Fall2022-AndrewLaw\Homework\Chapt 9 - 11\Chapt9-11Homework\Chapt10-2Homework\obj\Debug\Chapt10-2and3Homework.csproj.AssemblyReference.cache
+C:\Users\dopy_\OneDrive\Documents\Ranken - 2022\AWD1100-Fall2022-AndrewLaw\Homework\Chapt 9 - 11\Chapt9-11Homework\Chapt10-2Homework\obj\Debug\Chapt10-2and3Homework.csproj.SuggestedBindingRedirects.cache
+C:\Users\dopy_\OneDrive\Documents\Ranken - 2022\AWD1100-Fall2022-AndrewLaw\Homework\Chapt 9 - 11\Chapt9-11Homework\Chapt10-2Homework\obj\Debug\Chapt10_2Homework.frmLunchOrder.resources
+C:\Users\dopy_\OneDrive\Documents\Ranken - 2022\AWD1100-Fall2022-AndrewLaw\Homework\Chapt 9 - 11\Chapt9-11Homework\Chapt10-2Homework\obj\Debug\Chapt10_2Homework.frmNewSalesTax.resources
+C:\Users\dopy_\OneDrive\Documents\Ranken - 2022\AWD1100-Fall2022-AndrewLaw\Homework\Chapt 9 - 11\Chapt9-11Homework\Chapt10-2Homework\obj\Debug\Chapt10_2Homework.Properties.Resources.resources
+C:\Users\dopy_\OneDrive\Documents\Ranken - 2022\AWD1100-Fall2022-AndrewLaw\Homework\Chapt 9 - 11\Chapt9-11Homework\Chapt10-2Homework\obj\Debug\Chapt10-2and3Homework.csproj.GenerateResource.cache
+C:\Users\dopy_\OneDrive\Documents\Ranken - 2022\AWD1100-Fall2022-AndrewLaw\Homework\Chapt 9 - 11\Chapt9-11Homework\Chapt10-2Homework\obj\Debug\Chapt10-2and3Homework.csproj.CoreCompileInputs.cache
+C:\Users\dopy_\OneDrive\Documents\Ranken - 2022\AWD1100-Fall2022-AndrewLaw\Homework\Chapt 9 - 11\Chapt9-11Homework\Chapt10-2Homework\obj\Debug\Chapt10-2Homework.exe
+C:\Users\dopy_\OneDrive\Documents\Ranken - 2022\AWD1100-Fall2022-AndrewLaw\Homework\Chapt 9 - 11\Chapt9-11Homework\Chapt10-2Homework\obj\Debug\Chapt10-2Homework.pdb
