@@ -28,7 +28,7 @@ The application should provide for these main courses and add-ons: Main course P
         decimal salesTax = 0.0775m;
         decimal mainCoursePrice = 0m;
         decimal addOnPrice = 0m;
-
+        frmNewSalesTax f2;
         public frmLunchOrder()
         {
             InitializeComponent();
@@ -36,10 +36,17 @@ The application should provide for these main courses and add-ons: Main course P
 
         private void button3_Click(object sender, EventArgs e)
         {
-            
-            Form subform1 = new frmNewSalesTax();            
-            subform1.Show(this);
-            Hide();
+
+
+
+            this.Hide();
+            frmNewSalesTax fo = new frmNewSalesTax();
+            fo.Visible = true;
+
+            //frmNewSalesTax subform1 = new frmNewSalesTax();            
+            //subform1.Show();
+
+            //Hide();
 
         }
 

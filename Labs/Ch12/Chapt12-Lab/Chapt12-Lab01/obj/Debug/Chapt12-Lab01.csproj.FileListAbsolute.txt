@@ -1,0 +1,11 @@
+C:\Users\dopy_\OneDrive\Documents\Ranken - 2022\AWD1100-Fall2022-AndrewLaw\Labs\Ch12\Chapt12-Lab04\Chapt12-Lab01\bin\Debug\Chapt12-Lab01.exe.config
+C:\Users\dopy_\OneDrive\Documents\Ranken - 2022\AWD1100-Fall2022-AndrewLaw\Labs\Ch12\Chapt12-Lab04\Chapt12-Lab01\bin\Debug\Chapt12-Lab01.exe
+C:\Users\dopy_\OneDrive\Documents\Ranken - 2022\AWD1100-Fall2022-AndrewLaw\Labs\Ch12\Chapt12-Lab04\Chapt12-Lab01\bin\Debug\Chapt12-Lab01.pdb
+C:\Users\dopy_\OneDrive\Documents\Ranken - 2022\AWD1100-Fall2022-AndrewLaw\Labs\Ch12\Chapt12-Lab04\Chapt12-Lab01\obj\Debug\Chapt12-Lab01.csproj.AssemblyReference.cache
+C:\Users\dopy_\OneDrive\Documents\Ranken - 2022\AWD1100-Fall2022-AndrewLaw\Labs\Ch12\Chapt12-Lab04\Chapt12-Lab01\obj\Debug\Chapt12-Lab01.csproj.SuggestedBindingRedirects.cache
+C:\Users\dopy_\OneDrive\Documents\Ranken - 2022\AWD1100-Fall2022-AndrewLaw\Labs\Ch12\Chapt12-Lab04\Chapt12-Lab01\obj\Debug\Chapt12_Lab01.frmFlashCard.resources
+C:\Users\dopy_\OneDrive\Documents\Ranken - 2022\AWD1100-Fall2022-AndrewLaw\Labs\Ch12\Chapt12-Lab04\Chapt12-Lab01\obj\Debug\Chapt12_Lab01.Properties.Resources.resources
+C:\Users\dopy_\OneDrive\Documents\Ranken - 2022\AWD1100-Fall2022-AndrewLaw\Labs\Ch12\Chapt12-Lab04\Chapt12-Lab01\obj\Debug\Chapt12-Lab01.csproj.GenerateResource.cache
+C:\Users\dopy_\OneDrive\Documents\Ranken - 2022\AWD1100-Fall2022-AndrewLaw\Labs\Ch12\Chapt12-Lab04\Chapt12-Lab01\obj\Debug\Chapt12-Lab01.csproj.CoreCompileInputs.cache
+C:\Users\dopy_\OneDrive\Documents\Ranken - 2022\AWD1100-Fall2022-AndrewLaw\Labs\Ch12\Chapt12-Lab04\Chapt12-Lab01\obj\Debug\Chapt12-Lab01.exe
+C:\Users\dopy_\OneDrive\Documents\Ranken - 2022\AWD1100-Fall2022-AndrewLaw\Labs\Ch12\Chapt12-Lab04\Chapt12-Lab01\obj\Debug\Chapt12-Lab01.pdb
