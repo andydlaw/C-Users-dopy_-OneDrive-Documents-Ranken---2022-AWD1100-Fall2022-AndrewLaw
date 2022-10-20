@@ -1,0 +1,11 @@
+C:\Users\dopy_\OneDrive\Documents\Ranken - 2022\AWD1100-Fall2022-AndrewLaw\HOTs\HOT06\HOT06\HOT06-02\bin\Debug\HOT05-02.exe.config
+C:\Users\dopy_\OneDrive\Documents\Ranken - 2022\AWD1100-Fall2022-AndrewLaw\HOTs\HOT06\HOT06\HOT06-02\bin\Debug\HOT05-02.exe
+C:\Users\dopy_\OneDrive\Documents\Ranken - 2022\AWD1100-Fall2022-AndrewLaw\HOTs\HOT06\HOT06\HOT06-02\bin\Debug\HOT05-02.pdb
+C:\Users\dopy_\OneDrive\Documents\Ranken - 2022\AWD1100-Fall2022-AndrewLaw\HOTs\HOT06\HOT06\HOT06-02\obj\Debug\HOT06-02.csproj.AssemblyReference.cache
+C:\Users\dopy_\OneDrive\Documents\Ranken - 2022\AWD1100-Fall2022-AndrewLaw\HOTs\HOT06\HOT06\HOT06-02\obj\Debug\HOT06-02.csproj.SuggestedBindingRedirects.cache
+C:\Users\dopy_\OneDrive\Documents\Ranken - 2022\AWD1100-Fall2022-AndrewLaw\HOTs\HOT06\HOT06\HOT06-02\obj\Debug\HOT05_02.frmNetworkScanner.resources
+C:\Users\dopy_\OneDrive\Documents\Ranken - 2022\AWD1100-Fall2022-AndrewLaw\HOTs\HOT06\HOT06\HOT06-02\obj\Debug\HOT05_02.Properties.Resources.resources
+C:\Users\dopy_\OneDrive\Documents\Ranken - 2022\AWD1100-Fall2022-AndrewLaw\HOTs\HOT06\HOT06\HOT06-02\obj\Debug\HOT06-02.csproj.GenerateResource.cache
+C:\Users\dopy_\OneDrive\Documents\Ranken - 2022\AWD1100-Fall2022-AndrewLaw\HOTs\HOT06\HOT06\HOT06-02\obj\Debug\HOT06-02.csproj.CoreCompileInputs.cache
+C:\Users\dopy_\OneDrive\Documents\Ranken - 2022\AWD1100-Fall2022-AndrewLaw\HOTs\HOT06\HOT06\HOT06-02\obj\Debug\HOT05-02.exe
+C:\Users\dopy_\OneDrive\Documents\Ranken - 2022\AWD1100-Fall2022-AndrewLaw\HOTs\HOT06\HOT06\HOT06-02\obj\Debug\HOT05-02.pdb
