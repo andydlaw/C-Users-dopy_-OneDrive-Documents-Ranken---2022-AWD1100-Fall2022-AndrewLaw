@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "Chapt14Homework01/1.0.0": {
+        "runtime": {
+          "Chapt14Homework01.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Chapt14Homework01/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
