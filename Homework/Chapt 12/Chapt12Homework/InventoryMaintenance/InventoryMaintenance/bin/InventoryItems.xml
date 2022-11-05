@@ -15,4 +15,9 @@
         <Description>Snail pellets</Description>
         <Price>12.95</Price>
     </Item>
+    <Item>
+        <ItemNo>4738459</ItemNo>
+        <Description>Japanese Red Maple</Description>
+        <Price>89.95</Price>
+    </Item>
 </Items>
