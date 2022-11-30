@@ -32,10 +32,12 @@
             this.btnLoadData = new System.Windows.Forms.Button();
             this.dgvAlbums = new System.Windows.Forms.DataGridView();
             this.menuStrip1 = new System.Windows.Forms.MenuStrip();
+            this.loadDataMenuItem = new System.Windows.Forms.ToolStripMenuItem();
             this.splashScreenMenuItem = new System.Windows.Forms.ToolStripMenuItem();
             this.helpMenuItem = new System.Windows.Forms.ToolStripMenuItem();
             this.exitMenuItem = new System.Windows.Forms.ToolStripMenuItem();
-            this.loadDataMenuItem = new System.Windows.Forms.ToolStripMenuItem();
+            this.btnAlbumSearch = new System.Windows.Forms.Button();
+            this.txtAlbumSearch = new System.Windows.Forms.TextBox();
             ((System.ComponentModel.ISupportInitialize)(this.dgvAlbums)).BeginInit();
             this.menuStrip1.SuspendLayout();
             this.SuspendLayout();
@@ -44,7 +46,7 @@
             // 
             this.btnSplashScreen.DialogResult = System.Windows.Forms.DialogResult.Cancel;
             this.btnSplashScreen.Font = new System.Drawing.Font("Arial Narrow", 19.8F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.btnSplashScreen.Location = new System.Drawing.Point(12, 193);
+            this.btnSplashScreen.Location = new System.Drawing.Point(1218, 72);
             this.btnSplashScreen.Name = "btnSplashScreen";
             this.btnSplashScreen.Size = new System.Drawing.Size(246, 64);
             this.btnSplashScreen.TabIndex = 20;
@@ -55,7 +57,7 @@
             // btnLoadData
             // 
             this.btnLoadData.Font = new System.Drawing.Font("Arial Narrow", 19.8F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.btnLoadData.Location = new System.Drawing.Point(12, 72);
+            this.btnLoadData.Location = new System.Drawing.Point(28, 72);
             this.btnLoadData.Name = "btnLoadData";
             this.btnLoadData.Size = new System.Drawing.Size(246, 64);
             this.btnLoadData.TabIndex = 19;
@@ -66,11 +68,11 @@
             // dgvAlbums
             // 
             this.dgvAlbums.ColumnHeadersHeightSizeMode = System.Windows.Forms.DataGridViewColumnHeadersHeightSizeMode.AutoSize;
-            this.dgvAlbums.Location = new System.Drawing.Point(271, 72);
+            this.dgvAlbums.Location = new System.Drawing.Point(28, 163);
             this.dgvAlbums.Name = "dgvAlbums";
             this.dgvAlbums.RowHeadersWidth = 51;
             this.dgvAlbums.RowTemplate.Height = 24;
-            this.dgvAlbums.Size = new System.Drawing.Size(1193, 445);
+            this.dgvAlbums.Size = new System.Drawing.Size(1436, 354);
             this.dgvAlbums.TabIndex = 21;
             // 
             // menuStrip1
@@ -86,6 +88,13 @@
             this.menuStrip1.Size = new System.Drawing.Size(1512, 28);
             this.menuStrip1.TabIndex = 22;
             this.menuStrip1.Text = "menuStrip1";
+            // 
+            // loadDataMenuItem
+            // 
+            this.loadDataMenuItem.Name = "loadDataMenuItem";
+            this.loadDataMenuItem.Size = new System.Drawing.Size(92, 24);
+            this.loadDataMenuItem.Text = "Load Data";
+            this.loadDataMenuItem.Click += new System.EventHandler(this.loadDataMenuItem_Click);
             // 
             // splashScreenMenuItem
             // 
@@ -108,12 +117,24 @@
             this.exitMenuItem.Text = "Exit";
             this.exitMenuItem.Click += new System.EventHandler(this.exitMenuItem_Click);
             // 
-            // loadDataMenuItem
+            // btnAlbumSearch
             // 
-            this.loadDataMenuItem.Name = "loadDataMenuItem";
-            this.loadDataMenuItem.Size = new System.Drawing.Size(92, 24);
-            this.loadDataMenuItem.Text = "Load Data";
-            this.loadDataMenuItem.Click += new System.EventHandler(this.loadDataMenuItem_Click);
+            this.btnAlbumSearch.Font = new System.Drawing.Font("Arial Narrow", 19.8F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.btnAlbumSearch.Location = new System.Drawing.Point(296, 72);
+            this.btnAlbumSearch.Name = "btnAlbumSearch";
+            this.btnAlbumSearch.Size = new System.Drawing.Size(246, 64);
+            this.btnAlbumSearch.TabIndex = 23;
+            this.btnAlbumSearch.Text = "Album Search";
+            this.btnAlbumSearch.UseVisualStyleBackColor = true;
+            this.btnAlbumSearch.Click += new System.EventHandler(this.btnAlbumSearch_Click);
+            // 
+            // txtAlbumSearch
+            // 
+            this.txtAlbumSearch.Font = new System.Drawing.Font("Arial Narrow", 19.8F, System.Drawing.FontStyle.Bold);
+            this.txtAlbumSearch.Location = new System.Drawing.Point(585, 81);
+            this.txtAlbumSearch.Name = "txtAlbumSearch";
+            this.txtAlbumSearch.Size = new System.Drawing.Size(601, 45);
+            this.txtAlbumSearch.TabIndex = 24;
             // 
             // frmMainForm
             // 
@@ -121,7 +142,9 @@
             this.AutoScaleDimensions = new System.Drawing.SizeF(8F, 16F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.CancelButton = this.btnSplashScreen;
-            this.ClientSize = new System.Drawing.Size(1512, 801);
+            this.ClientSize = new System.Drawing.Size(1512, 543);
+            this.Controls.Add(this.txtAlbumSearch);
+            this.Controls.Add(this.btnAlbumSearch);
             this.Controls.Add(this.dgvAlbums);
             this.Controls.Add(this.btnSplashScreen);
             this.Controls.Add(this.btnLoadData);
@@ -149,5 +172,7 @@
         private System.Windows.Forms.ToolStripMenuItem helpMenuItem;
         private System.Windows.Forms.ToolStripMenuItem exitMenuItem;
         private System.Windows.Forms.ToolStripMenuItem loadDataMenuItem;
+        private System.Windows.Forms.Button btnAlbumSearch;
+        private System.Windows.Forms.TextBox txtAlbumSearch;
     }
 }
