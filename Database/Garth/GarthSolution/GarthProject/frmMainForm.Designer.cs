@@ -38,8 +38,10 @@
             this.exitMenuItem = new System.Windows.Forms.ToolStripMenuItem();
             this.btnAlbumSearch = new System.Windows.Forms.Button();
             this.txtAlbumSearch = new System.Windows.Forms.TextBox();
+            this.pbCurrentAlbum = new System.Windows.Forms.PictureBox();
             ((System.ComponentModel.ISupportInitialize)(this.dgvAlbums)).BeginInit();
             this.menuStrip1.SuspendLayout();
+            ((System.ComponentModel.ISupportInitialize)(this.pbCurrentAlbum)).BeginInit();
             this.SuspendLayout();
             // 
             // btnSplashScreen
@@ -68,12 +70,13 @@
             // dgvAlbums
             // 
             this.dgvAlbums.ColumnHeadersHeightSizeMode = System.Windows.Forms.DataGridViewColumnHeadersHeightSizeMode.AutoSize;
-            this.dgvAlbums.Location = new System.Drawing.Point(28, 163);
+            this.dgvAlbums.Location = new System.Drawing.Point(296, 163);
             this.dgvAlbums.Name = "dgvAlbums";
             this.dgvAlbums.RowHeadersWidth = 51;
             this.dgvAlbums.RowTemplate.Height = 24;
-            this.dgvAlbums.Size = new System.Drawing.Size(1436, 354);
+            this.dgvAlbums.Size = new System.Drawing.Size(1168, 354);
             this.dgvAlbums.TabIndex = 21;
+            this.dgvAlbums.CellClick += new System.Windows.Forms.DataGridViewCellEventHandler(this.dgvAlbums_CellClick);
             // 
             // menuStrip1
             // 
@@ -136,13 +139,24 @@
             this.txtAlbumSearch.Size = new System.Drawing.Size(601, 45);
             this.txtAlbumSearch.TabIndex = 24;
             // 
+            // pbCurrentAlbum
+            // 
+            this.pbCurrentAlbum.BackColor = System.Drawing.SystemColors.ControlLight;
+            this.pbCurrentAlbum.Location = new System.Drawing.Point(17, 206);
+            this.pbCurrentAlbum.Name = "pbCurrentAlbum";
+            this.pbCurrentAlbum.Size = new System.Drawing.Size(262, 262);
+            this.pbCurrentAlbum.SizeMode = System.Windows.Forms.PictureBoxSizeMode.StretchImage;
+            this.pbCurrentAlbum.TabIndex = 25;
+            this.pbCurrentAlbum.TabStop = false;
+            // 
             // frmMainForm
             // 
             this.AcceptButton = this.btnLoadData;
             this.AutoScaleDimensions = new System.Drawing.SizeF(8F, 16F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.CancelButton = this.btnSplashScreen;
-            this.ClientSize = new System.Drawing.Size(1512, 543);
+            this.ClientSize = new System.Drawing.Size(1512, 663);
+            this.Controls.Add(this.pbCurrentAlbum);
             this.Controls.Add(this.txtAlbumSearch);
             this.Controls.Add(this.btnAlbumSearch);
             this.Controls.Add(this.dgvAlbums);
@@ -157,6 +171,7 @@
             ((System.ComponentModel.ISupportInitialize)(this.dgvAlbums)).EndInit();
             this.menuStrip1.ResumeLayout(false);
             this.menuStrip1.PerformLayout();
+            ((System.ComponentModel.ISupportInitialize)(this.pbCurrentAlbum)).EndInit();
             this.ResumeLayout(false);
             this.PerformLayout();
 
@@ -174,5 +189,6 @@
         private System.Windows.Forms.ToolStripMenuItem loadDataMenuItem;
         private System.Windows.Forms.Button btnAlbumSearch;
         private System.Windows.Forms.TextBox txtAlbumSearch;
+        private System.Windows.Forms.PictureBox pbCurrentAlbum;
     }
 }

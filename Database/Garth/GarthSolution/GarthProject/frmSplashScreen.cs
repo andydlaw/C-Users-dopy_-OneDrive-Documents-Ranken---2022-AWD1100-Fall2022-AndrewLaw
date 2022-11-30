@@ -23,7 +23,7 @@ namespace GarthProject
         string[] images =
         {
 
-                //"https://upload.wikimedia.org/wikipedia/en/1/1a/Garth_Brooks-Garth_Brooks_%28album_cover%29.jpg",
+                //https://upload.wikimedia.org/wikipedia/en/1/1a/Garth_Brooks-Garth_Brooks_%28album_cover%29.jpg",
                 //"https://upload.wikimedia.org/wikipedia/en/5/5e/Garth_Brooks-No_Fences_%28album_cover%29.jpg",
                 //"https://upload.wikimedia.org/wikipedia/en/5/5a/Garth_Brooks-Ropin%27_the_Wind_%28album_cover%29.jpg",
                 //"https://upload.wikimedia.org/wikipedia/en/5/57/Garth_Brooks_Beyond_the_Season.jpg",

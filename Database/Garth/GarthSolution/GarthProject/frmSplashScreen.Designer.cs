@@ -272,28 +272,28 @@
             this.exitMenuItem});
             this.menuStrip1.Location = new System.Drawing.Point(0, 0);
             this.menuStrip1.Name = "menuStrip1";
-            this.menuStrip1.Size = new System.Drawing.Size(1343, 28);
+            this.menuStrip1.Size = new System.Drawing.Size(1343, 30);
             this.menuStrip1.TabIndex = 19;
             this.menuStrip1.Text = "menuStrip1";
             // 
             // mainPageMenuItem
             // 
             this.mainPageMenuItem.Name = "mainPageMenuItem";
-            this.mainPageMenuItem.Size = new System.Drawing.Size(92, 26);
+            this.mainPageMenuItem.Size = new System.Drawing.Size(92, 24);
             this.mainPageMenuItem.Text = "Main Page";
             this.mainPageMenuItem.Click += new System.EventHandler(this.mainPageMenuItem_Click);
             // 
             // helpMenuItem
             // 
             this.helpMenuItem.Name = "helpMenuItem";
-            this.helpMenuItem.Size = new System.Drawing.Size(55, 26);
+            this.helpMenuItem.Size = new System.Drawing.Size(55, 24);
             this.helpMenuItem.Text = "Help";
             this.helpMenuItem.Click += new System.EventHandler(this.helpMenuItem_Click);
             // 
             // exitMenuItem
             // 
             this.exitMenuItem.Name = "exitMenuItem";
-            this.exitMenuItem.Size = new System.Drawing.Size(47, 26);
+            this.exitMenuItem.Size = new System.Drawing.Size(47, 24);
             this.exitMenuItem.Text = "Exit";
             this.exitMenuItem.Click += new System.EventHandler(this.exitMenuItem_Click);
             // 

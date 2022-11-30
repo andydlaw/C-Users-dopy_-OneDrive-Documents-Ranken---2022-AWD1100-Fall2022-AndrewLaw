@@ -27,6 +27,42 @@ namespace GarthProject
 
 
         }
+        string[] images =
+{
+
+                //https://upload.wikimedia.org/wikipedia/en/1/1a/Garth_Brooks-Garth_Brooks_%28album_cover%29.jpg",
+                //"https://upload.wikimedia.org/wikipedia/en/5/5e/Garth_Brooks-No_Fences_%28album_cover%29.jpg",
+                //"https://upload.wikimedia.org/wikipedia/en/5/5a/Garth_Brooks-Ropin%27_the_Wind_%28album_cover%29.jpg",
+                //"https://upload.wikimedia.org/wikipedia/en/5/57/Garth_Brooks_Beyond_the_Season.jpg",
+                //"https://upload.wikimedia.org/wikipedia/en/c/cc/Garthchase.jpg",
+                //"https://upload.wikimedia.org/wikipedia/en/4/4c/Garth_Brooks_In_Pieces.jpg",
+                //"https://upload.wikimedia.org/wikipedia/en/a/a7/Freshhorses.jpg",
+                //"https://upload.wikimedia.org/wikipedia/en/e/e2/Sevens.jpg",
+                //"https://upload.wikimedia.org/wikipedia/en/thumb/6/62/GarthBrooksintheLifeofChrisGaines.jpg",
+                //"https://upload.wikimedia.org/wikipedia/en/d/de/Garth_Brooks_Magic_of_Christmas.jpg",
+                //"https://upload.wikimedia.org/wikipedia/en/0/01/Garthscarecrow.jpg",
+                //"https://upload.wikimedia.org/wikipedia/en/2/2b/Man_Against_Machine_cover.jpg",
+                //"https://upload.wikimedia.org/wikipedia/en/1/1d/Christmastogether.jpg",
+                //"https://upload.wikimedia.org/wikipedia/en/9/93/Garth-Gunslinger-Cover.jpg",
+                //"https://upload.wikimedia.org/wikipedia/en/8/8d/Fun_%28Garth_Brooks_album%29.jpeg"
+            "C:\\Users\\dopy_\\OneDrive\\Documents\\Ranken - 2022\\AWD1100-Fall2022-AndrewLaw\\Database\\Garth\\GarthSolution\\GarthProject\\images\\garth00.jpg",
+            "C:\\Users\\dopy_\\OneDrive\\Documents\\Ranken - 2022\\AWD1100-Fall2022-AndrewLaw\\Database\\Garth\\GarthSolution\\GarthProject\\images\\garth01.jpg",
+            "C:\\Users\\dopy_\\OneDrive\\Documents\\Ranken - 2022\\AWD1100-Fall2022-AndrewLaw\\Database\\Garth\\GarthSolution\\GarthProject\\images\\garth02.jpg",
+            "C:\\Users\\dopy_\\OneDrive\\Documents\\Ranken - 2022\\AWD1100-Fall2022-AndrewLaw\\Database\\Garth\\GarthSolution\\GarthProject\\images\\garth03.jpg",
+            "C:\\Users\\dopy_\\OneDrive\\Documents\\Ranken - 2022\\AWD1100-Fall2022-AndrewLaw\\Database\\Garth\\GarthSolution\\GarthProject\\images\\garth04.jpg",
+            "C:\\Users\\dopy_\\OneDrive\\Documents\\Ranken - 2022\\AWD1100-Fall2022-AndrewLaw\\Database\\Garth\\GarthSolution\\GarthProject\\images\\garth05.jpg",
+            "C:\\Users\\dopy_\\OneDrive\\Documents\\Ranken - 2022\\AWD1100-Fall2022-AndrewLaw\\Database\\Garth\\GarthSolution\\GarthProject\\images\\garth06.jpg",
+            "C:\\Users\\dopy_\\OneDrive\\Documents\\Ranken - 2022\\AWD1100-Fall2022-AndrewLaw\\Database\\Garth\\GarthSolution\\GarthProject\\images\\garth07.jpg",
+            "C:\\Users\\dopy_\\OneDrive\\Documents\\Ranken - 2022\\AWD1100-Fall2022-AndrewLaw\\Database\\Garth\\GarthSolution\\GarthProject\\images\\garth08.jpg",
+            "C:\\Users\\dopy_\\OneDrive\\Documents\\Ranken - 2022\\AWD1100-Fall2022-AndrewLaw\\Database\\Garth\\GarthSolution\\GarthProject\\images\\garth09.jpg",
+            "C:\\Users\\dopy_\\OneDrive\\Documents\\Ranken - 2022\\AWD1100-Fall2022-AndrewLaw\\Database\\Garth\\GarthSolution\\GarthProject\\images\\garth10.jpg",
+            "C:\\Users\\dopy_\\OneDrive\\Documents\\Ranken - 2022\\AWD1100-Fall2022-AndrewLaw\\Database\\Garth\\GarthSolution\\GarthProject\\images\\garth11.jpg",
+            "C:\\Users\\dopy_\\OneDrive\\Documents\\Ranken - 2022\\AWD1100-Fall2022-AndrewLaw\\Database\\Garth\\GarthSolution\\GarthProject\\images\\garth12.jpg",
+            "C:\\Users\\dopy_\\OneDrive\\Documents\\Ranken - 2022\\AWD1100-Fall2022-AndrewLaw\\Database\\Garth\\GarthSolution\\GarthProject\\images\\garth13.jpg",
+            "C:\\Users\\dopy_\\OneDrive\\Documents\\Ranken - 2022\\AWD1100-Fall2022-AndrewLaw\\Database\\Garth\\GarthSolution\\GarthProject\\images\\garth14.jpg",
+            "C:\\Users\\dopy_\\OneDrive\\Documents\\Ranken - 2022\\AWD1100-Fall2022-AndrewLaw\\Database\\Garth\\GarthSolution\\GarthProject\\images\\garth15.jpg"
+        };
+
         private void loadAllMusicData()
         {
             //Album g1 = new Album
@@ -278,7 +314,7 @@ namespace GarthProject
         {
             if (txtAlbumSearch.Text == "")
             {
-                MessageBox.Show("Cannot have and empty width", "EMPTY SEARCH FIELD", MessageBoxButtons.OK, MessageBoxIcon.Error);
+                MessageBox.Show("Cannot have and empty search field.", "EMPTY SEARCH FIELD", MessageBoxButtons.OK, MessageBoxIcon.Error);
 
                 txtAlbumSearch.Focus();
             }
@@ -300,5 +336,15 @@ namespace GarthProject
 
         }
 
+        private void dgvAlbums_CellClick(object sender, DataGridViewCellEventArgs e)
+        {
+            DataGridView dgv = (DataGridView) sender;
+            int rowClicked = dgv.CurrentCell.RowIndex;
+            string imageURL = dgv.Rows[rowClicked].Cells[0].Value.ToString();
+
+            //pbCurrentAlbum.Load(imageURL);
+            int p =Convert.ToInt32( imageURL);
+            pbCurrentAlbum.Image = Image.FromFile(images[p]);
+        }
     }
 }

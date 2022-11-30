@@ -9,11 +9,13 @@ namespace MusicLibrary
 {
     public class AlbumsDAO
     {
-        string term = "";
+        
         //public List<Album> albums = new List<Album>();
         string connString = @"Data Source=(localdb)\MSSQLLocalDB;Initial Catalog=GarthDB;Integrated Security=SSPI";
         public List<Album> getAllAlbums()
         {
+            string term = "";
+
             List<Album> albumsToReturn = new List<Album>();
 
             SqlConnection connection = new SqlConnection(connString);
