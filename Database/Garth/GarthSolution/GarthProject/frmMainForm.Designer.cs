@@ -39,9 +39,26 @@
             this.btnAlbumSearch = new System.Windows.Forms.Button();
             this.txtAlbumSearch = new System.Windows.Forms.TextBox();
             this.pbCurrentAlbum = new System.Windows.Forms.PictureBox();
+            this.gbAddNewAlbum = new System.Windows.Forms.GroupBox();
+            this.btnAddAlbum = new System.Windows.Forms.Button();
+            this.txtAlbumURL = new System.Windows.Forms.TextBox();
+            this.lblAlbumURL = new System.Windows.Forms.Label();
+            this.txtAlbumDesc = new System.Windows.Forms.TextBox();
+            this.lblAlbumDesc = new System.Windows.Forms.Label();
+            this.txtAlbumYear = new System.Windows.Forms.TextBox();
+            this.lblAlbumYear = new System.Windows.Forms.Label();
+            this.txtAlbumArtist = new System.Windows.Forms.TextBox();
+            this.lblAlbumArtist = new System.Windows.Forms.Label();
+            this.txtAlbumName = new System.Windows.Forms.TextBox();
+            this.label1 = new System.Windows.Forms.Label();
+            this.dgvSongs = new System.Windows.Forms.DataGridView();
+            this.dgvAlbumFacts = new System.Windows.Forms.DataGridView();
             ((System.ComponentModel.ISupportInitialize)(this.dgvAlbums)).BeginInit();
             this.menuStrip1.SuspendLayout();
             ((System.ComponentModel.ISupportInitialize)(this.pbCurrentAlbum)).BeginInit();
+            this.gbAddNewAlbum.SuspendLayout();
+            ((System.ComponentModel.ISupportInitialize)(this.dgvSongs)).BeginInit();
+            ((System.ComponentModel.ISupportInitialize)(this.dgvAlbumFacts)).BeginInit();
             this.SuspendLayout();
             // 
             // btnSplashScreen
@@ -70,7 +87,7 @@
             // dgvAlbums
             // 
             this.dgvAlbums.ColumnHeadersHeightSizeMode = System.Windows.Forms.DataGridViewColumnHeadersHeightSizeMode.AutoSize;
-            this.dgvAlbums.Location = new System.Drawing.Point(296, 163);
+            this.dgvAlbums.Location = new System.Drawing.Point(296, 147);
             this.dgvAlbums.Name = "dgvAlbums";
             this.dgvAlbums.RowHeadersWidth = 51;
             this.dgvAlbums.RowTemplate.Height = 24;
@@ -142,12 +159,148 @@
             // pbCurrentAlbum
             // 
             this.pbCurrentAlbum.BackColor = System.Drawing.SystemColors.ControlLight;
-            this.pbCurrentAlbum.Location = new System.Drawing.Point(17, 206);
+            this.pbCurrentAlbum.Location = new System.Drawing.Point(17, 190);
             this.pbCurrentAlbum.Name = "pbCurrentAlbum";
             this.pbCurrentAlbum.Size = new System.Drawing.Size(262, 262);
             this.pbCurrentAlbum.SizeMode = System.Windows.Forms.PictureBoxSizeMode.StretchImage;
             this.pbCurrentAlbum.TabIndex = 25;
             this.pbCurrentAlbum.TabStop = false;
+            // 
+            // gbAddNewAlbum
+            // 
+            this.gbAddNewAlbum.BackColor = System.Drawing.SystemColors.ControlDark;
+            this.gbAddNewAlbum.Controls.Add(this.btnAddAlbum);
+            this.gbAddNewAlbum.Controls.Add(this.txtAlbumURL);
+            this.gbAddNewAlbum.Controls.Add(this.lblAlbumURL);
+            this.gbAddNewAlbum.Controls.Add(this.txtAlbumDesc);
+            this.gbAddNewAlbum.Controls.Add(this.lblAlbumDesc);
+            this.gbAddNewAlbum.Controls.Add(this.txtAlbumYear);
+            this.gbAddNewAlbum.Controls.Add(this.lblAlbumYear);
+            this.gbAddNewAlbum.Controls.Add(this.txtAlbumArtist);
+            this.gbAddNewAlbum.Controls.Add(this.lblAlbumArtist);
+            this.gbAddNewAlbum.Controls.Add(this.txtAlbumName);
+            this.gbAddNewAlbum.Controls.Add(this.label1);
+            this.gbAddNewAlbum.Location = new System.Drawing.Point(17, 516);
+            this.gbAddNewAlbum.Name = "gbAddNewAlbum";
+            this.gbAddNewAlbum.Size = new System.Drawing.Size(865, 144);
+            this.gbAddNewAlbum.TabIndex = 26;
+            this.gbAddNewAlbum.TabStop = false;
+            this.gbAddNewAlbum.Text = "Add New Album";
+            // 
+            // btnAddAlbum
+            // 
+            this.btnAddAlbum.Location = new System.Drawing.Point(752, 56);
+            this.btnAddAlbum.Name = "btnAddAlbum";
+            this.btnAddAlbum.Size = new System.Drawing.Size(94, 38);
+            this.btnAddAlbum.TabIndex = 10;
+            this.btnAddAlbum.Text = "Add Album";
+            this.btnAddAlbum.UseVisualStyleBackColor = true;
+            this.btnAddAlbum.Click += new System.EventHandler(this.btnAddAlbum_Click);
+            // 
+            // txtAlbumURL
+            // 
+            this.txtAlbumURL.Location = new System.Drawing.Point(100, 102);
+            this.txtAlbumURL.Name = "txtAlbumURL";
+            this.txtAlbumURL.Size = new System.Drawing.Size(628, 22);
+            this.txtAlbumURL.TabIndex = 9;
+            this.txtAlbumURL.Tag = "URL";
+            // 
+            // lblAlbumURL
+            // 
+            this.lblAlbumURL.AutoSize = true;
+            this.lblAlbumURL.Location = new System.Drawing.Point(16, 105);
+            this.lblAlbumURL.Name = "lblAlbumURL";
+            this.lblAlbumURL.Size = new System.Drawing.Size(78, 16);
+            this.lblAlbumURL.TabIndex = 8;
+            this.lblAlbumURL.Text = "Album URL:";
+            // 
+            // txtAlbumDesc
+            // 
+            this.txtAlbumDesc.Location = new System.Drawing.Point(141, 64);
+            this.txtAlbumDesc.Name = "txtAlbumDesc";
+            this.txtAlbumDesc.Size = new System.Drawing.Size(587, 22);
+            this.txtAlbumDesc.TabIndex = 7;
+            this.txtAlbumDesc.Tag = "Description";
+            // 
+            // lblAlbumDesc
+            // 
+            this.lblAlbumDesc.AutoSize = true;
+            this.lblAlbumDesc.Location = new System.Drawing.Point(16, 67);
+            this.lblAlbumDesc.Name = "lblAlbumDesc";
+            this.lblAlbumDesc.Size = new System.Drawing.Size(119, 16);
+            this.lblAlbumDesc.TabIndex = 6;
+            this.lblAlbumDesc.Text = "Album Description:";
+            // 
+            // txtAlbumYear
+            // 
+            this.txtAlbumYear.Location = new System.Drawing.Point(618, 25);
+            this.txtAlbumYear.Name = "txtAlbumYear";
+            this.txtAlbumYear.Size = new System.Drawing.Size(110, 22);
+            this.txtAlbumYear.TabIndex = 5;
+            this.txtAlbumYear.Tag = "Year";
+            // 
+            // lblAlbumYear
+            // 
+            this.lblAlbumYear.AutoSize = true;
+            this.lblAlbumYear.Location = new System.Drawing.Point(532, 28);
+            this.lblAlbumYear.Name = "lblAlbumYear";
+            this.lblAlbumYear.Size = new System.Drawing.Size(80, 16);
+            this.lblAlbumYear.TabIndex = 4;
+            this.lblAlbumYear.Text = "Album Year:";
+            // 
+            // txtAlbumArtist
+            // 
+            this.txtAlbumArtist.Location = new System.Drawing.Point(395, 25);
+            this.txtAlbumArtist.Name = "txtAlbumArtist";
+            this.txtAlbumArtist.Size = new System.Drawing.Size(129, 22);
+            this.txtAlbumArtist.TabIndex = 3;
+            this.txtAlbumArtist.Tag = "Artist";
+            // 
+            // lblAlbumArtist
+            // 
+            this.lblAlbumArtist.AutoSize = true;
+            this.lblAlbumArtist.Location = new System.Drawing.Point(309, 28);
+            this.lblAlbumArtist.Name = "lblAlbumArtist";
+            this.lblAlbumArtist.Size = new System.Drawing.Size(80, 16);
+            this.lblAlbumArtist.TabIndex = 2;
+            this.lblAlbumArtist.Text = "Album Artist:";
+            // 
+            // txtAlbumName
+            // 
+            this.txtAlbumName.Location = new System.Drawing.Point(110, 25);
+            this.txtAlbumName.Name = "txtAlbumName";
+            this.txtAlbumName.Size = new System.Drawing.Size(193, 22);
+            this.txtAlbumName.TabIndex = 1;
+            this.txtAlbumName.Tag = "Name";
+            // 
+            // label1
+            // 
+            this.label1.AutoSize = true;
+            this.label1.Location = new System.Drawing.Point(16, 28);
+            this.label1.Name = "label1";
+            this.label1.Size = new System.Drawing.Size(88, 16);
+            this.label1.TabIndex = 0;
+            this.label1.Text = "Album Name:";
+            // 
+            // dgvSongs
+            // 
+            this.dgvSongs.ColumnHeadersHeightSizeMode = System.Windows.Forms.DataGridViewColumnHeadersHeightSizeMode.AutoSize;
+            this.dgvSongs.Location = new System.Drawing.Point(898, 516);
+            this.dgvSongs.Name = "dgvSongs";
+            this.dgvSongs.RowHeadersWidth = 51;
+            this.dgvSongs.RowTemplate.Height = 24;
+            this.dgvSongs.Size = new System.Drawing.Size(606, 314);
+            this.dgvSongs.TabIndex = 27;
+            // 
+            // dgvAlbumFacts
+            // 
+            this.dgvAlbumFacts.ColumnHeadersHeightSizeMode = System.Windows.Forms.DataGridViewColumnHeadersHeightSizeMode.AutoSize;
+            this.dgvAlbumFacts.Location = new System.Drawing.Point(17, 676);
+            this.dgvAlbumFacts.Name = "dgvAlbumFacts";
+            this.dgvAlbumFacts.RowHeadersWidth = 51;
+            this.dgvAlbumFacts.RowTemplate.Height = 24;
+            this.dgvAlbumFacts.Size = new System.Drawing.Size(865, 154);
+            this.dgvAlbumFacts.TabIndex = 28;
             // 
             // frmMainForm
             // 
@@ -155,7 +308,10 @@
             this.AutoScaleDimensions = new System.Drawing.SizeF(8F, 16F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.CancelButton = this.btnSplashScreen;
-            this.ClientSize = new System.Drawing.Size(1512, 663);
+            this.ClientSize = new System.Drawing.Size(1512, 842);
+            this.Controls.Add(this.dgvAlbumFacts);
+            this.Controls.Add(this.dgvSongs);
+            this.Controls.Add(this.gbAddNewAlbum);
             this.Controls.Add(this.pbCurrentAlbum);
             this.Controls.Add(this.txtAlbumSearch);
             this.Controls.Add(this.btnAlbumSearch);
@@ -172,6 +328,10 @@
             this.menuStrip1.ResumeLayout(false);
             this.menuStrip1.PerformLayout();
             ((System.ComponentModel.ISupportInitialize)(this.pbCurrentAlbum)).EndInit();
+            this.gbAddNewAlbum.ResumeLayout(false);
+            this.gbAddNewAlbum.PerformLayout();
+            ((System.ComponentModel.ISupportInitialize)(this.dgvSongs)).EndInit();
+            ((System.ComponentModel.ISupportInitialize)(this.dgvAlbumFacts)).EndInit();
             this.ResumeLayout(false);
             this.PerformLayout();
 
@@ -190,5 +350,19 @@
         private System.Windows.Forms.Button btnAlbumSearch;
         private System.Windows.Forms.TextBox txtAlbumSearch;
         private System.Windows.Forms.PictureBox pbCurrentAlbum;
+        private System.Windows.Forms.GroupBox gbAddNewAlbum;
+        private System.Windows.Forms.Button btnAddAlbum;
+        private System.Windows.Forms.TextBox txtAlbumURL;
+        private System.Windows.Forms.Label lblAlbumURL;
+        private System.Windows.Forms.TextBox txtAlbumDesc;
+        private System.Windows.Forms.Label lblAlbumDesc;
+        private System.Windows.Forms.TextBox txtAlbumYear;
+        private System.Windows.Forms.Label lblAlbumYear;
+        private System.Windows.Forms.TextBox txtAlbumArtist;
+        private System.Windows.Forms.Label lblAlbumArtist;
+        private System.Windows.Forms.TextBox txtAlbumName;
+        private System.Windows.Forms.Label label1;
+        private System.Windows.Forms.DataGridView dgvSongs;
+        private System.Windows.Forms.DataGridView dgvAlbumFacts;
     }
 }

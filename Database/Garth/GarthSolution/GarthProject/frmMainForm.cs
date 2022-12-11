@@ -1,13 +1,8 @@
-﻿using System;
-using System.Collections.Generic;
-using System.ComponentModel;
-using System.Data;
+﻿using MusicLibrary;
+using System;
 using System.Drawing;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
+using System.Runtime.InteropServices;
 using System.Windows.Forms;
-using MusicLibrary;
 
 namespace GarthProject
 {
@@ -18,6 +13,8 @@ namespace GarthProject
             InitializeComponent();
         }
         BindingSource albumBindingSource = new BindingSource();
+        BindingSource songBindingSource= new BindingSource();
+        BindingSource factsBindingSource = new BindingSource();
         AlbumsDAO albumsDAO = new AlbumsDAO();
 
         private void btnLoadData_Click(object sender, EventArgs e)
@@ -27,41 +24,41 @@ namespace GarthProject
 
 
         }
-        string[] images =
-{
+        //        string[] images =
+        //{
 
-                //https://upload.wikimedia.org/wikipedia/en/1/1a/Garth_Brooks-Garth_Brooks_%28album_cover%29.jpg",
-                //"https://upload.wikimedia.org/wikipedia/en/5/5e/Garth_Brooks-No_Fences_%28album_cover%29.jpg",
-                //"https://upload.wikimedia.org/wikipedia/en/5/5a/Garth_Brooks-Ropin%27_the_Wind_%28album_cover%29.jpg",
-                //"https://upload.wikimedia.org/wikipedia/en/5/57/Garth_Brooks_Beyond_the_Season.jpg",
-                //"https://upload.wikimedia.org/wikipedia/en/c/cc/Garthchase.jpg",
-                //"https://upload.wikimedia.org/wikipedia/en/4/4c/Garth_Brooks_In_Pieces.jpg",
-                //"https://upload.wikimedia.org/wikipedia/en/a/a7/Freshhorses.jpg",
-                //"https://upload.wikimedia.org/wikipedia/en/e/e2/Sevens.jpg",
-                //"https://upload.wikimedia.org/wikipedia/en/thumb/6/62/GarthBrooksintheLifeofChrisGaines.jpg",
-                //"https://upload.wikimedia.org/wikipedia/en/d/de/Garth_Brooks_Magic_of_Christmas.jpg",
-                //"https://upload.wikimedia.org/wikipedia/en/0/01/Garthscarecrow.jpg",
-                //"https://upload.wikimedia.org/wikipedia/en/2/2b/Man_Against_Machine_cover.jpg",
-                //"https://upload.wikimedia.org/wikipedia/en/1/1d/Christmastogether.jpg",
-                //"https://upload.wikimedia.org/wikipedia/en/9/93/Garth-Gunslinger-Cover.jpg",
-                //"https://upload.wikimedia.org/wikipedia/en/8/8d/Fun_%28Garth_Brooks_album%29.jpeg"
-            "C:\\Users\\dopy_\\OneDrive\\Documents\\Ranken - 2022\\AWD1100-Fall2022-AndrewLaw\\Database\\Garth\\GarthSolution\\GarthProject\\images\\garth00.jpg",
-            "C:\\Users\\dopy_\\OneDrive\\Documents\\Ranken - 2022\\AWD1100-Fall2022-AndrewLaw\\Database\\Garth\\GarthSolution\\GarthProject\\images\\garth01.jpg",
-            "C:\\Users\\dopy_\\OneDrive\\Documents\\Ranken - 2022\\AWD1100-Fall2022-AndrewLaw\\Database\\Garth\\GarthSolution\\GarthProject\\images\\garth02.jpg",
-            "C:\\Users\\dopy_\\OneDrive\\Documents\\Ranken - 2022\\AWD1100-Fall2022-AndrewLaw\\Database\\Garth\\GarthSolution\\GarthProject\\images\\garth03.jpg",
-            "C:\\Users\\dopy_\\OneDrive\\Documents\\Ranken - 2022\\AWD1100-Fall2022-AndrewLaw\\Database\\Garth\\GarthSolution\\GarthProject\\images\\garth04.jpg",
-            "C:\\Users\\dopy_\\OneDrive\\Documents\\Ranken - 2022\\AWD1100-Fall2022-AndrewLaw\\Database\\Garth\\GarthSolution\\GarthProject\\images\\garth05.jpg",
-            "C:\\Users\\dopy_\\OneDrive\\Documents\\Ranken - 2022\\AWD1100-Fall2022-AndrewLaw\\Database\\Garth\\GarthSolution\\GarthProject\\images\\garth06.jpg",
-            "C:\\Users\\dopy_\\OneDrive\\Documents\\Ranken - 2022\\AWD1100-Fall2022-AndrewLaw\\Database\\Garth\\GarthSolution\\GarthProject\\images\\garth07.jpg",
-            "C:\\Users\\dopy_\\OneDrive\\Documents\\Ranken - 2022\\AWD1100-Fall2022-AndrewLaw\\Database\\Garth\\GarthSolution\\GarthProject\\images\\garth08.jpg",
-            "C:\\Users\\dopy_\\OneDrive\\Documents\\Ranken - 2022\\AWD1100-Fall2022-AndrewLaw\\Database\\Garth\\GarthSolution\\GarthProject\\images\\garth09.jpg",
-            "C:\\Users\\dopy_\\OneDrive\\Documents\\Ranken - 2022\\AWD1100-Fall2022-AndrewLaw\\Database\\Garth\\GarthSolution\\GarthProject\\images\\garth10.jpg",
-            "C:\\Users\\dopy_\\OneDrive\\Documents\\Ranken - 2022\\AWD1100-Fall2022-AndrewLaw\\Database\\Garth\\GarthSolution\\GarthProject\\images\\garth11.jpg",
-            "C:\\Users\\dopy_\\OneDrive\\Documents\\Ranken - 2022\\AWD1100-Fall2022-AndrewLaw\\Database\\Garth\\GarthSolution\\GarthProject\\images\\garth12.jpg",
-            "C:\\Users\\dopy_\\OneDrive\\Documents\\Ranken - 2022\\AWD1100-Fall2022-AndrewLaw\\Database\\Garth\\GarthSolution\\GarthProject\\images\\garth13.jpg",
-            "C:\\Users\\dopy_\\OneDrive\\Documents\\Ranken - 2022\\AWD1100-Fall2022-AndrewLaw\\Database\\Garth\\GarthSolution\\GarthProject\\images\\garth14.jpg",
-            "C:\\Users\\dopy_\\OneDrive\\Documents\\Ranken - 2022\\AWD1100-Fall2022-AndrewLaw\\Database\\Garth\\GarthSolution\\GarthProject\\images\\garth15.jpg"
-        };
+        //                //https://upload.wikimedia.org/wikipedia/en/1/1a/Garth_Brooks-Garth_Brooks_%28album_cover%29.jpg",
+        //                //"https://upload.wikimedia.org/wikipedia/en/5/5e/Garth_Brooks-No_Fences_%28album_cover%29.jpg",
+        //                //"https://upload.wikimedia.org/wikipedia/en/5/5a/Garth_Brooks-Ropin%27_the_Wind_%28album_cover%29.jpg",
+        //                //"https://upload.wikimedia.org/wikipedia/en/5/57/Garth_Brooks_Beyond_the_Season.jpg",
+        //                //"https://upload.wikimedia.org/wikipedia/en/c/cc/Garthchase.jpg",
+        //                //"https://upload.wikimedia.org/wikipedia/en/4/4c/Garth_Brooks_In_Pieces.jpg",
+        //                //"https://upload.wikimedia.org/wikipedia/en/a/a7/Freshhorses.jpg",
+        //                //"https://upload.wikimedia.org/wikipedia/en/e/e2/Sevens.jpg",
+        //                //"https://upload.wikimedia.org/wikipedia/en/thumb/6/62/GarthBrooksintheLifeofChrisGaines.jpg",
+        //                //"https://upload.wikimedia.org/wikipedia/en/d/de/Garth_Brooks_Magic_of_Christmas.jpg",
+        //                //"https://upload.wikimedia.org/wikipedia/en/0/01/Garthscarecrow.jpg",
+        //                //"https://upload.wikimedia.org/wikipedia/en/2/2b/Man_Against_Machine_cover.jpg",
+        //                //"https://upload.wikimedia.org/wikipedia/en/1/1d/Christmastogether.jpg",
+        //                //"https://upload.wikimedia.org/wikipedia/en/9/93/Garth-Gunslinger-Cover.jpg",
+        //                //"https://upload.wikimedia.org/wikipedia/en/8/8d/Fun_%28Garth_Brooks_album%29.jpeg"
+        //            "C:\\Users\\dopy_\\OneDrive\\Documents\\Ranken - 2022\\AWD1100-Fall2022-AndrewLaw\\Database\\Garth\\GarthSolution\\GarthProject\\images\\garth00.jpg",
+        //            "C:\\Users\\dopy_\\OneDrive\\Documents\\Ranken - 2022\\AWD1100-Fall2022-AndrewLaw\\Database\\Garth\\GarthSolution\\GarthProject\\images\\garth01.jpg",
+        //            "C:\\Users\\dopy_\\OneDrive\\Documents\\Ranken - 2022\\AWD1100-Fall2022-AndrewLaw\\Database\\Garth\\GarthSolution\\GarthProject\\images\\garth02.jpg",
+        //            "C:\\Users\\dopy_\\OneDrive\\Documents\\Ranken - 2022\\AWD1100-Fall2022-AndrewLaw\\Database\\Garth\\GarthSolution\\GarthProject\\images\\garth03.jpg",
+        //            "C:\\Users\\dopy_\\OneDrive\\Documents\\Ranken - 2022\\AWD1100-Fall2022-AndrewLaw\\Database\\Garth\\GarthSolution\\GarthProject\\images\\garth04.jpg",
+        //            "C:\\Users\\dopy_\\OneDrive\\Documents\\Ranken - 2022\\AWD1100-Fall2022-AndrewLaw\\Database\\Garth\\GarthSolution\\GarthProject\\images\\garth05.jpg",
+        //            "C:\\Users\\dopy_\\OneDrive\\Documents\\Ranken - 2022\\AWD1100-Fall2022-AndrewLaw\\Database\\Garth\\GarthSolution\\GarthProject\\images\\garth06.jpg",
+        //            "C:\\Users\\dopy_\\OneDrive\\Documents\\Ranken - 2022\\AWD1100-Fall2022-AndrewLaw\\Database\\Garth\\GarthSolution\\GarthProject\\images\\garth07.jpg",
+        //            "C:\\Users\\dopy_\\OneDrive\\Documents\\Ranken - 2022\\AWD1100-Fall2022-AndrewLaw\\Database\\Garth\\GarthSolution\\GarthProject\\images\\garth08.jpg",
+        //            "C:\\Users\\dopy_\\OneDrive\\Documents\\Ranken - 2022\\AWD1100-Fall2022-AndrewLaw\\Database\\Garth\\GarthSolution\\GarthProject\\images\\garth09.jpg",
+        //            "C:\\Users\\dopy_\\OneDrive\\Documents\\Ranken - 2022\\AWD1100-Fall2022-AndrewLaw\\Database\\Garth\\GarthSolution\\GarthProject\\images\\garth10.jpg",
+        //            "C:\\Users\\dopy_\\OneDrive\\Documents\\Ranken - 2022\\AWD1100-Fall2022-AndrewLaw\\Database\\Garth\\GarthSolution\\GarthProject\\images\\garth11.jpg",
+        //            "C:\\Users\\dopy_\\OneDrive\\Documents\\Ranken - 2022\\AWD1100-Fall2022-AndrewLaw\\Database\\Garth\\GarthSolution\\GarthProject\\images\\garth12.jpg",
+        //            "C:\\Users\\dopy_\\OneDrive\\Documents\\Ranken - 2022\\AWD1100-Fall2022-AndrewLaw\\Database\\Garth\\GarthSolution\\GarthProject\\images\\garth13.jpg",
+        //            "C:\\Users\\dopy_\\OneDrive\\Documents\\Ranken - 2022\\AWD1100-Fall2022-AndrewLaw\\Database\\Garth\\GarthSolution\\GarthProject\\images\\garth14.jpg",
+        //            "C:\\Users\\dopy_\\OneDrive\\Documents\\Ranken - 2022\\AWD1100-Fall2022-AndrewLaw\\Database\\Garth\\GarthSolution\\GarthProject\\images\\garth15.jpg"
+        //        };
 
         private void loadAllMusicData()
         {
@@ -321,7 +318,7 @@ namespace GarthProject
             else
             {
                 loadSearchMusicData();
-                
+
             }
 
         }
@@ -333,18 +330,104 @@ namespace GarthProject
             //connect list of albums to DataGridViewControl
             albumBindingSource.DataSource = albumsDAO.getSearchedAlbums(txtAlbumSearch.Text);
             dgvAlbums.DataSource = albumBindingSource;
+            pbCurrentAlbum.Image = null;
 
         }
 
         private void dgvAlbums_CellClick(object sender, DataGridViewCellEventArgs e)
         {
-            DataGridView dgv = (DataGridView) sender;
+            DataGridView dgv = (DataGridView)sender;
             int rowClicked = dgv.CurrentCell.RowIndex;
             string imageURL = dgv.Rows[rowClicked].Cells[0].Value.ToString();
 
             //pbCurrentAlbum.Load(imageURL);
-            int p =Convert.ToInt32( imageURL);
-            pbCurrentAlbum.Image = Image.FromFile(images[p]);
+            int p = Convert.ToInt32(imageURL);
+            pbCurrentAlbum.Image = Image.FromFile(AlbumImages.images[p]);
+
+            AlbumsDAO albumsDAO = new AlbumsDAO();
+
+            songBindingSource.DataSource = albumsDAO.getSongsForAlbum((int)dgvAlbums.Rows[rowClicked].Cells[0].Value);
+            dgvSongs.DataSource = songBindingSource;
+
+            factsBindingSource.DataSource = albumsDAO.getFactsForAlbum((int)dgvAlbums.Rows[rowClicked].Cells[0].Value);
+            dgvAlbumFacts.DataSource = factsBindingSource
+;
+        }
+
+        private void btnAddAlbum_Click(object sender, EventArgs e)
+        {
+            if (IsValidData())
+            {
+                addAlbumToAlbumsTable();
+            };
+
+
+        }
+        private void addAlbumToAlbumsTable()
+        {
+            Album album = new Album
+            {
+                AlbumName = txtAlbumName.Text,
+                AlbumArtist = txtAlbumArtist.Text,
+                AlbumDesc = txtAlbumDesc.Text,
+                AlbumURL = txtAlbumURL.Text,
+                AlbumYear = Int32.Parse(txtAlbumYear.Text)
+            };
+
+            AlbumsDAO albumsDAO = new AlbumsDAO();
+            int result = albumsDAO.addNewAlbum(album);
+            MessageBox.Show("Number of New Albums Inserted " + result.ToString(), "NEW RECORD INSERTED?", MessageBoxButtons.OK, MessageBoxIcon.Information);
+        }
+        public bool IsValidData()
+        {
+            bool success = true;
+            string errorMessage = "";
+
+            //calling validator class
+
+            Validator validator = new Validator();
+
+
+            //Checking for blanks
+            errorMessage += validator.IsPresent(txtAlbumYear.Text,
+            txtAlbumYear.Tag.ToString());
+            errorMessage += validator.IsPresent(txtAlbumArtist.Text,
+            txtAlbumArtist.Tag.ToString());
+            errorMessage += validator.IsPresent(txtAlbumDesc.Text,
+            txtAlbumDesc.Tag.ToString());
+            errorMessage += validator.IsPresent(txtAlbumName.Text,
+            txtAlbumName.Tag.ToString());
+            errorMessage += validator.IsPresent(txtAlbumURL.Text,
+            txtAlbumURL.Tag.ToString());
+
+            //checking for range starting from birth year.
+
+            errorMessage += validator.IsWithinRange(txtAlbumYear.Text,
+            txtAlbumYear.Tag.ToString(),
+            1962, 2062);
+
+
+
+
+            errorMessage += validator.IsInt32(txtAlbumYear.Text, txtAlbumYear.Tag.ToString());
+
+            if (errorMessage != "")
+            {
+                success = false;
+                MessageBox.Show(errorMessage, "Entry Error");
+            }
+            return success;
+        }
+
+        
+
+        private void clearOutAddNewRecordFields()
+        {
+            txtAlbumName.Text = "";
+            txtAlbumArtist.Text = "";
+            txtAlbumDesc.Text = "";
+            txtAlbumURL.Text = "";
+            txtAlbumYear.Text = "";
         }
     }
 }
